@@ -4,7 +4,7 @@ import { chalk, fs, path } from 'zx';
 import { I18N_RE, COMMENT_HEAD } from '../scripts/prepare/constants.js';
 
 const argv = process.argv
-const lang = (await import(`../src/lang-template/${argv[2]}.js`)).default
+const { default:lang } = await import(`../src/lang-template/${argv[2]}.js`)
 
 await fs.emptyDir('./out')
 await fs.ensureDir('./out/layui/src/modules')
