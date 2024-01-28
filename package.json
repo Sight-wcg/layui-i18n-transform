@@ -1,0 +1,19 @@
+{
+  "name": "layui-i18n-transform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "t": "node scripts/transforms.js",
+    "t-zh": "node scripts/transforms.js zh-Hans",
+    "prepare": "node scripts/prepare.js"
+  },
+  "author": "morning-star",
+  "license": "MIT",
+  "dependencies": {
+    "@ast-grep/napi": "^0.17.1",
+    "magic-string": "^0.30.5",
+    "zx": "^7.2.3"
+  }
+}
