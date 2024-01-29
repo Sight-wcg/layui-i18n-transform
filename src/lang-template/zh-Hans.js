@@ -65,18 +65,16 @@ export default {
     '星__I18N_2': '星'
   },
   laypage: {
-    '&#x4E0A;&#x4E00;&#x9875;__I18N_0': '上一页',
-    '&#x4E0B;&#x4E00;&#x9875;__I18N_0': '下一页',
-    '<a class="layui-laypage-first" data-page="1"  title="&#x9996;&#x9875;">__I18N_0': '<a class="layui-laypage-first" data-page="1"  title="首页">',
-    '<span class="layui-laypage-spr">&#x2026;</span>__I18N_0': '<span class="layui-laypage-spr">...</span>',
-    '<span class="layui-laypage-spr">&#x2026;</span>__I18N_1': '<span class="layui-laypage-spr">...</span>',
-    '<a class="layui-laypage-last" title="&#x5C3E;&#x9875;"  data-page="__I18N_0': '<a class="layui-laypage-last" title="尾页"  data-page="',
+    '上一页__I18N_0': '上一页',
+    '下一页__I18N_0': '下一页',
+    '<a class="layui-laypage-first" data-page="1"  title="首页">__I18N_0': '<a class="layui-laypage-first" data-page="1"  title="首页">',
+    '<a class="layui-laypage-last" title="尾页"  data-page="__I18N_0': '<a class="layui-laypage-last" title="尾页"  data-page="',
     '共__I18N_0': '共',
     '条__I18N_0': '条',
     '条/页__I18N_0': '条/页',
-    '&#x5230;&#x7B2C;__I18N_0': '到第',
-    '&#x9875;__I18N_0': '页',
-    '&#x786e;&#x5b9a;__I18N_0': '确定'
+    '到第__I18N_0': '到第',
+    '页__I18N_0': '页',
+    '确定__I18N_0': '确定'
   },
   form: {
     '必填项不能为空__I18N_0': '必填项不能为空',
@@ -98,14 +96,14 @@ export default {
     '<cite>加载更多</cite>__I18N_0': '<cite>加载更多</cite>'
   },
   layer: {
-    '&#x786E;&#x5B9A;__I18N_0': '确定',
-    '&#x53D6;&#x6D88;__I18N_0': '取消',
-    '&#x4FE1;&#x606F;__I18N_0': '信息',
-    '&#x786E;&#x5B9A;__I18N_1': '确定;',
-    '&#x53D6;&#x6D88;__I18N_1': '取消',
-    '&#x6700;&#x591A;&#x8F93;&#x5165;__I18N_0': '最多输入',
-    '&#x4E2A;&#x5B57;&#x6570;__I18N_0': '个字符',
-    '&#x6CA1;&#x6709;&#x56FE;&#x7247;__I18N_0': '没有图片',
+    '确定__I18N_0': '确定',
+    '取消__I18N_0': '取消',
+    '信息__I18N_0': '信息',
+    '确定;__I18N_0': '确定;',
+    '取消__I18N_1': '取消',
+    '最多输入__I18N_0': '最多输入',
+    '个字符__I18N_0': '个字符',
+    '没有图片__I18N_0': '没有图片',
     '<span toolbar-event="rotate" data-option="90" title="旋转"><i class="layui-icon layui-icon-refresh"></i></span>__I18N_0': '<span toolbar-event="rotate" data-option="90" title="旋转"><i class="layui-icon layui-icon-refresh"></i></span>',
     '<span toolbar-event="scalex" title="变换"><i class="layui-icon layui-icon-slider"></i></span>__I18N_0': '<span toolbar-event="scalex" title="变换"><i class="layui-icon layui-icon-slider"></i></span>',
     '<span toolbar-event="zoom" data-option="0.1" title="放大"><i class="layui-icon layui-icon-add-circle"></i></span>__I18N_0': '<span toolbar-event="zoom" data-option="0.1" title="放大"><i class="layui-icon layui-icon-add-circle"></i></span>',
@@ -113,12 +111,12 @@ export default {
     '<span toolbar-event="reset" title="还原"><i class="layui-icon layui-icon-refresh-1"></i></span>__I18N_0': '<span toolbar-event="reset" title="还原"><i class="layui-icon layui-icon-refresh-1"></i></span>',
     '<span toolbar-event="close" title="关闭"><i class="layui-icon layui-icon-close"></i></span>__I18N_0': '<span toolbar-event="close" title="关闭"><i class="layui-icon layui-icon-close"></i></span>',
     '" target="_blank">查看原图</a>__I18N_0': '" target="_blank">查看原图</a>',
-    '&#x5F53;&#x524D;&#x56FE;&#x7247;&#x5730;&#x5740;&#x5F02;&#x5E38;<br>&#x662F;&#x5426;&#x7EE7;&#x7EED;&#x67E5;&#x770B;&#x4E0B;&#x4E00;&#x5F20;&#xFF1F;__I18N_0': '当前图片地址异常，<br>是否继续查看下一张？',
-    '&#x4E0B;&#x4E00;&#x5F20;__I18N_0': '下一张',
-    '&#x4E0D;&#x770B;&#x4E86;__I18N_0': '不看了'
+    '当前图片地址异常，<br>是否继续查看下一张？__I18N_0': '当前图片地址异常，<br>是否继续查看下一张？',
+    '下一张__I18N_0': '下一张',
+    '不看了__I18N_0': '不看了'
   },
   dropdown: {
-    '<li class="layui-menu-item-none">No data</li>__I18N_0': '<li class="layui-menu-item-none">暂无数据</li>'
+    '<li class="layui-menu-item-none">暂无数据</li>__I18N_0': '<li class="layui-menu-item-none">暂无数据</li>'
   },
   colorpicker: {
     '<button class="layui-btn layui-btn-primary layui-btn-sm" colorpicker-events="clear">清空</button>__I18N_0': '<button class="layui-btn layui-btn-primary layui-btn-sm" colorpicker-events="clear">清空</button>',

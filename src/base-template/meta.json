@@ -830,9 +830,9 @@
     }
   },
   "laypage": {
-    "&#x4E0A;&#x4E00;&#x9875;__I18N_0": {
+    "上一页__I18N_0": {
       "file": "layui/src/modules/laypage.js",
-      "raw": "&#x4E0A;&#x4E00;&#x9875;",
+      "raw": "上一页",
       "range": {
         "start": {
           "line": 74,
@@ -841,88 +841,56 @@
         },
         "end": {
           "line": 74,
-          "column": 76,
-          "index": 1776
+          "column": 55,
+          "index": 1755
         }
       }
     },
-    "&#x4E0B;&#x4E00;&#x9875;__I18N_0": {
+    "下一页__I18N_0": {
       "file": "layui/src/modules/laypage.js",
-      "raw": "&#x4E0B;&#x4E00;&#x9875;",
+      "raw": "下一页",
       "range": {
         "start": {
           "line": 75,
           "column": 52,
-          "index": 1841
+          "index": 1820
         },
         "end": {
           "line": 75,
-          "column": 76,
-          "index": 1865
+          "column": 55,
+          "index": 1823
         }
       }
     },
-    "<a class=\"layui-laypage-first\" data-page=\"1\"  title=\"&#x9996;&#x9875;\">__I18N_0": {
+    "<a class=\"layui-laypage-first\" data-page=\"1\"  title=\"首页\">__I18N_0": {
       "file": "layui/src/modules/laypage.js",
-      "raw": "<a class=\"layui-laypage-first\" data-page=\"1\"  title=\"&#x9996;&#x9875;\">",
+      "raw": "<a class=\"layui-laypage-first\" data-page=\"1\"  title=\"首页\">",
       "range": {
         "start": {
           "line": 102,
           "column": 22,
-          "index": 2602
+          "index": 2560
         },
         "end": {
           "line": 102,
-          "column": 93,
-          "index": 2673
+          "column": 79,
+          "index": 2617
         }
       }
     },
-    "<span class=\"layui-laypage-spr\">&#x2026;</span>__I18N_0": {
+    "<a class=\"layui-laypage-last\" title=\"尾页\"  data-page=\"__I18N_0": {
       "file": "layui/src/modules/laypage.js",
-      "raw": "<span class=\"layui-laypage-spr\">&#x2026;</span>",
-      "range": {
-        "start": {
-          "line": 120,
-          "column": 22,
-          "index": 3263
-        },
-        "end": {
-          "line": 120,
-          "column": 69,
-          "index": 3310
-        }
-      }
-    },
-    "<span class=\"layui-laypage-spr\">&#x2026;</span>__I18N_1": {
-      "file": "layui/src/modules/laypage.js",
-      "raw": "<span class=\"layui-laypage-spr\">&#x2026;</span>",
-      "range": {
-        "start": {
-          "line": 136,
-          "column": 24,
-          "index": 3957
-        },
-        "end": {
-          "line": 136,
-          "column": 71,
-          "index": 4004
-        }
-      }
-    },
-    "<a class=\"layui-laypage-last\" title=\"&#x5C3E;&#x9875;\"  data-page=\"__I18N_0": {
-      "file": "layui/src/modules/laypage.js",
-      "raw": "<a class=\"layui-laypage-last\" title=\"&#x5C3E;&#x9875;\"  data-page=\"",
+      "raw": "<a class=\"layui-laypage-last\" title=\"尾页\"  data-page=\"",
       "range": {
         "start": {
           "line": 139,
           "column": 24,
-          "index": 4075
+          "index": 4009
         },
         "end": {
           "line": 139,
-          "column": 91,
-          "index": 4142
+          "column": 77,
+          "index": 4062
         }
       }
     },
@@ -933,12 +901,12 @@
         "start": {
           "line": 155,
           "column": 84,
-          "index": 4674
+          "index": 4594
         },
         "end": {
           "line": 155,
           "column": 86,
-          "index": 4676
+          "index": 4596
         }
       }
     },
@@ -949,12 +917,12 @@
         "start": {
           "line": 155,
           "column": 90,
-          "index": 4680
+          "index": 4600
         },
         "end": {
           "line": 155,
           "column": 92,
-          "index": 4682
+          "index": 4602
         }
       }
     },
@@ -965,60 +933,60 @@
         "start": {
           "line": 163,
           "column": 27,
-          "index": 5007
+          "index": 4927
         },
         "end": {
           "line": 163,
           "column": 31,
-          "index": 5011
+          "index": 4931
         }
       }
     },
-    "&#x5230;&#x7B2C;__I18N_0": {
+    "到第__I18N_0": {
       "file": "layui/src/modules/laypage.js",
-      "raw": "&#x5230;&#x7B2C;",
+      "raw": "到第",
       "range": {
         "start": {
           "line": 191,
           "column": 11,
-          "index": 5852
+          "index": 5772
         },
         "end": {
           "line": 191,
-          "column": 27,
-          "index": 5868
+          "column": 13,
+          "index": 5774
         }
       }
     },
-    "&#x9875;__I18N_0": {
+    "页__I18N_0": {
       "file": "layui/src/modules/laypage.js",
-      "raw": "&#x9875;",
+      "raw": "页",
       "range": {
         "start": {
           "line": 192,
           "column": 11,
-          "index": 5883
+          "index": 5789
         },
         "end": {
           "line": 192,
-          "column": 19,
-          "index": 5891
+          "column": 12,
+          "index": 5790
         }
       }
     },
-    "&#x786e;&#x5b9a;__I18N_0": {
+    "确定__I18N_0": {
       "file": "layui/src/modules/laypage.js",
-      "raw": "&#x786e;&#x5b9a;",
+      "raw": "确定",
       "range": {
         "start": {
           "line": 193,
           "column": 11,
-          "index": 5906
+          "index": 5805
         },
         "end": {
           "line": 193,
-          "column": 27,
-          "index": 5922
+          "column": 13,
+          "index": 5807
         }
       }
     }
@@ -1268,9 +1236,9 @@
     }
   },
   "layer": {
-    "&#x786E;&#x5B9A;__I18N_0": {
+    "确定__I18N_0": {
       "file": "layui/src/modules/layer.js",
-      "raw": "&#x786E;&#x5B9A;",
+      "raw": "确定",
       "range": {
         "start": {
           "line": 35,
@@ -1279,120 +1247,120 @@
         },
         "end": {
           "line": 35,
-          "column": 25,
-          "index": 838
+          "column": 11,
+          "index": 824
         }
       }
     },
-    "&#x53D6;&#x6D88;__I18N_0": {
+    "取消__I18N_0": {
       "file": "layui/src/modules/layer.js",
-      "raw": "&#x53D6;&#x6D88;",
+      "raw": "取消",
       "range": {
         "start": {
           "line": 35,
-          "column": 29,
-          "index": 842
+          "column": 15,
+          "index": 828
         },
         "end": {
           "line": 35,
-          "column": 45,
-          "index": 858
+          "column": 17,
+          "index": 830
         }
       }
     },
-    "&#x4FE1;&#x606F;__I18N_0": {
+    "信息__I18N_0": {
       "file": "layui/src/modules/layer.js",
-      "raw": "&#x4FE1;&#x606F;",
+      "raw": "信息",
       "range": {
         "start": {
           "line": 266,
           "column": 10,
-          "index": 7279
+          "index": 7251
         },
         "end": {
           "line": 266,
-          "column": 26,
-          "index": 7295
+          "column": 12,
+          "index": 7253
         }
       }
     },
-    "&#x786E;&#x5B9A;__I18N_1": {
+    "确定;__I18N_0": {
       "file": "layui/src/modules/layer.js",
-      "raw": "&#x786E;&#x5B9A;",
+      "raw": "确定;",
       "range": {
         "start": {
           "line": 1333,
           "column": 11,
-          "index": 40010
+          "index": 39968
         },
         "end": {
           "line": 1333,
-          "column": 27,
-          "index": 40026
+          "column": 14,
+          "index": 39971
         }
       }
     },
-    "&#x53D6;&#x6D88;__I18N_1": {
+    "取消__I18N_1": {
       "file": "layui/src/modules/layer.js",
-      "raw": "&#x53D6;&#x6D88;",
+      "raw": "取消",
       "range": {
         "start": {
           "line": 1333,
-          "column": 30,
-          "index": 40029
+          "column": 17,
+          "index": 39974
         },
         "end": {
           "line": 1333,
-          "column": 46,
-          "index": 40045
+          "column": 19,
+          "index": 39976
         }
       }
     },
-    "&#x6700;&#x591A;&#x8F93;&#x5165;__I18N_0": {
+    "最多输入__I18N_0": {
       "file": "layui/src/modules/layer.js",
-      "raw": "&#x6700;&#x591A;&#x8F93;&#x5165;",
+      "raw": "最多输入",
       "range": {
         "start": {
           "line": 1346,
           "column": 20,
-          "index": 40500
+          "index": 40431
         },
         "end": {
           "line": 1346,
-          "column": 52,
-          "index": 40532
+          "column": 24,
+          "index": 40435
         }
       }
     },
-    "&#x4E2A;&#x5B57;&#x6570;__I18N_0": {
+    "个字符__I18N_0": {
       "file": "layui/src/modules/layer.js",
-      "raw": "&#x4E2A;&#x5B57;&#x6570;",
+      "raw": "个字符",
       "range": {
         "start": {
           "line": 1346,
-          "column": 84,
-          "index": 40564
+          "column": 56,
+          "index": 40467
         },
         "end": {
           "line": 1346,
-          "column": 108,
-          "index": 40588
+          "column": 59,
+          "index": 40470
         }
       }
     },
-    "&#x6CA1;&#x6709;&#x56FE;&#x7247;__I18N_0": {
+    "没有图片__I18N_0": {
       "file": "layui/src/modules/layer.js",
-      "raw": "&#x6CA1;&#x6709;&#x56FE;&#x7247;",
+      "raw": "没有图片",
       "range": {
         "start": {
           "line": 1462,
           "column": 22,
-          "index": 43968
+          "index": 43850
         },
         "end": {
           "line": 1462,
-          "column": 54,
-          "index": 44000
+          "column": 26,
+          "index": 43854
         }
       }
     },
@@ -1403,12 +1371,12 @@
         "start": {
           "line": 1710,
           "column": 17,
-          "index": 51085
+          "index": 50939
         },
         "end": {
           "line": 1710,
           "column": 126,
-          "index": 51194
+          "index": 51048
         }
       }
     },
@@ -1419,12 +1387,12 @@
         "start": {
           "line": 1711,
           "column": 17,
-          "index": 51215
+          "index": 51069
         },
         "end": {
           "line": 1711,
           "column": 108,
-          "index": 51306
+          "index": 51160
         }
       }
     },
@@ -1435,12 +1403,12 @@
         "start": {
           "line": 1712,
           "column": 17,
-          "index": 51327
+          "index": 51181
         },
         "end": {
           "line": 1712,
           "column": 128,
-          "index": 51438
+          "index": 51292
         }
       }
     },
@@ -1451,12 +1419,12 @@
         "start": {
           "line": 1713,
           "column": 17,
-          "index": 51459
+          "index": 51313
         },
         "end": {
           "line": 1713,
           "column": 132,
-          "index": 51574
+          "index": 51428
         }
       }
     },
@@ -1467,12 +1435,12 @@
         "start": {
           "line": 1714,
           "column": 17,
-          "index": 51595
+          "index": 51449
         },
         "end": {
           "line": 1714,
           "column": 110,
-          "index": 51688
+          "index": 51542
         }
       }
     },
@@ -1483,12 +1451,12 @@
         "start": {
           "line": 1715,
           "column": 17,
-          "index": 51709
+          "index": 51563
         },
         "end": {
           "line": 1715,
           "column": 106,
-          "index": 51798
+          "index": 51652
         }
       }
     },
@@ -1499,68 +1467,68 @@
         "start": {
           "line": 1725,
           "column": 45,
-          "index": 52160
+          "index": 52014
         },
         "end": {
           "line": 1725,
           "column": 71,
-          "index": 52186
+          "index": 52040
         }
       }
     },
-    "&#x5F53;&#x524D;&#x56FE;&#x7247;&#x5730;&#x5740;&#x5F02;&#x5E38;<br>&#x662F;&#x5426;&#x7EE7;&#x7EED;&#x67E5;&#x770B;&#x4E0B;&#x4E00;&#x5F20;&#xFF1F;__I18N_0": {
+    "当前图片地址异常，<br>是否继续查看下一张？__I18N_0": {
       "file": "layui/src/modules/layer.js",
-      "raw": "&#x5F53;&#x524D;&#x56FE;&#x7247;&#x5730;&#x5740;&#x5F02;&#x5E38;<br>&#x662F;&#x5426;&#x7EE7;&#x7EED;&#x67E5;&#x770B;&#x4E0B;&#x4E00;&#x5F20;&#xFF1F;",
+      "raw": "当前图片地址异常，<br>是否继续查看下一张？",
       "range": {
         "start": {
           "line": 1747,
           "column": 15,
-          "index": 52909
+          "index": 52763
         },
         "end": {
           "line": 1747,
-          "column": 163,
-          "index": 53057
+          "column": 38,
+          "index": 52786
         }
       }
     },
-    "&#x4E0B;&#x4E00;&#x5F20;__I18N_0": {
+    "下一张__I18N_0": {
       "file": "layui/src/modules/layer.js",
-      "raw": "&#x4E0B;&#x4E00;&#x5F20;",
+      "raw": "下一张",
       "range": {
         "start": {
           "line": 1749,
           "column": 13,
-          "index": 53097
+          "index": 52826
         },
         "end": {
           "line": 1749,
-          "column": 37,
-          "index": 53121
+          "column": 16,
+          "index": 52829
         }
       }
     },
-    "&#x4E0D;&#x770B;&#x4E86;__I18N_0": {
+    "不看了__I18N_0": {
       "file": "layui/src/modules/layer.js",
-      "raw": "&#x4E0D;&#x770B;&#x4E86;",
+      "raw": "不看了",
       "range": {
         "start": {
           "line": 1749,
-          "column": 41,
-          "index": 53125
+          "column": 20,
+          "index": 52833
         },
         "end": {
           "line": 1749,
-          "column": 65,
-          "index": 53149
+          "column": 23,
+          "index": 52836
         }
       }
     }
   },
   "dropdown": {
-    "<li class=\"layui-menu-item-none\">No data</li>__I18N_0": {
+    "<li class=\"layui-menu-item-none\">暂无数据</li>__I18N_0": {
       "file": "layui/src/modules/dropdown.js",
-      "raw": "<li class=\"layui-menu-item-none\">No data</li>",
+      "raw": "<li class=\"layui-menu-item-none\">暂无数据</li>",
       "range": {
         "start": {
           "line": 169,
@@ -1569,8 +1537,8 @@
         },
         "end": {
           "line": 169,
-          "column": 66,
-          "index": 4757
+          "column": 63,
+          "index": 4754
         }
       }
     }
