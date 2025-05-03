@@ -6,15 +6,16 @@
   "type": "module",
   "scripts": {
     "t": "node scripts/transforms.js",
-    "t-zh": "node scripts/transforms.js zh-Hans",
+    "t:fn": "node scripts/transforms-fn.js",
     "build": "cd layui && npm run build",
     "prepare:template": "node scripts/prepare.js",
-    "prepare": "git submodule update --remote layui && cd layui && npm install && cd .. && npm run prepare:template"
+    "prepare": "git submodule update --remote layui && cd layui && npm install && cd .. && npm run prepare:template",
+    "test": "npm run t zh-Hans"
   },
   "author": "morning-star",
   "license": "MIT",
   "dependencies": {
-    "@ast-grep/napi": "^0.17.1",
+    "@ast-grep/napi": "0.37.0",
     "magic-string": "^0.30.5",
     "zx": "^7.2.3"
   }
