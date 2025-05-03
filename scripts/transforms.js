@@ -6,9 +6,6 @@ import { I18N_RE, COMMENT_HEAD } from '../scripts/prepare/constants.js';
 const argv = process.argv
 const { default:lang } = await import(`../src/lang-template/${argv[2]}.js`)
 
-await fs.emptyDir('./out')
-await fs.ensureDir('./out/layui/src/modules')
-
 const task_queue = [];
 const task = await parseFiles(['layui/src'], (err, ast) => {
   if (!ast.filename().endsWith('.js')) return;
@@ -48,7 +45,7 @@ const task = await parseFiles(['layui/src'], (err, ast) => {
     console.log(`${chalk.blue(filename + ':')} ${chalk.bold.red('mismatch')}`);
   }
 
-  task_queue.push(fs.writeFile(`./out/${ast.filename()}`, source.toString(), 'utf-8'));
+  task_queue.push(fs.writeFile(`./${ast.filename()}`, source.toString(), 'utf-8'));
 });
 task_queue.push(task);
 

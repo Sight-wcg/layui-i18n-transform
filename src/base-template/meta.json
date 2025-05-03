@@ -1,1544 +1,114 @@
 {
-  "util": {
-    "天前__I18N_0": {
-      "file": "layui/src/modules/util.js",
-      "raw": " 天前",
+  "code": {
+    "复制代码__I18N_0": {
+      "file": "layui/src/modules/code.js",
+      "raw": "复制代码",
       "range": {
         "start": {
-          "line": 232,
-          "column": 44,
-          "index": 6346
-        },
-        "end": {
-          "line": 232,
-          "column": 47,
-          "index": 6349
-        }
-      }
-    },
-    "小时前__I18N_0": {
-      "file": "layui/src/modules/util.js",
-      "raw": " 小时前",
-      "range": {
-        "start": {
-          "line": 234,
-          "column": 41,
-          "index": 6433
-        },
-        "end": {
-          "line": 234,
-          "column": 45,
-          "index": 6437
-        }
-      }
-    },
-    "分钟前__I18N_0": {
-      "file": "layui/src/modules/util.js",
-      "raw": " 分钟前",
-      "range": {
-        "start": {
-          "line": 236,
-          "column": 38,
-          "index": 6531
-        },
-        "end": {
-          "line": 236,
-          "column": 42,
-          "index": 6535
-        }
-      }
-    },
-    "未来__I18N_0": {
-      "file": "layui/src/modules/util.js",
-      "raw": "未来",
-      "range": {
-        "start": {
-          "line": 238,
-          "column": 16,
-          "index": 6584
-        },
-        "end": {
-          "line": 238,
-          "column": 18,
-          "index": 6586
-        }
-      }
-    },
-    "刚刚__I18N_0": {
-      "file": "layui/src/modules/util.js",
-      "raw": "刚刚",
-      "range": {
-        "start": {
-          "line": 240,
-          "column": 16,
-          "index": 6622
-        },
-        "end": {
-          "line": 240,
-          "column": 18,
-          "index": 6624
-        }
-      }
-    },
-    "凌晨__I18N_0": {
-      "file": "layui/src/modules/util.js",
-      "raw": "凌晨",
-      "range": {
-        "start": {
-          "line": 282,
-          "column": 20,
-          "index": 8012
-        },
-        "end": {
-          "line": 282,
-          "column": 22,
-          "index": 8014
-        }
-      }
-    },
-    "早上__I18N_0": {
-      "file": "layui/src/modules/util.js",
-      "raw": "早上",
-      "range": {
-        "start": {
-          "line": 284,
-          "column": 20,
-          "index": 8072
-        },
-        "end": {
-          "line": 284,
-          "column": 22,
-          "index": 8074
-        }
-      }
-    },
-    "上午__I18N_0": {
-      "file": "layui/src/modules/util.js",
-      "raw": "上午",
-      "range": {
-        "start": {
-          "line": 286,
-          "column": 20,
-          "index": 8133
-        },
-        "end": {
-          "line": 286,
-          "column": 22,
-          "index": 8135
-        }
-      }
-    },
-    "中午__I18N_0": {
-      "file": "layui/src/modules/util.js",
-      "raw": "中午",
-      "range": {
-        "start": {
-          "line": 288,
-          "column": 20,
-          "index": 8194
-        },
-        "end": {
-          "line": 288,
-          "column": 22,
-          "index": 8196
-        }
-      }
-    },
-    "下午__I18N_0": {
-      "file": "layui/src/modules/util.js",
-      "raw": "下午",
-      "range": {
-        "start": {
-          "line": 290,
-          "column": 20,
-          "index": 8255
-        },
-        "end": {
-          "line": 290,
-          "column": 22,
-          "index": 8257
-        }
-      }
-    },
-    "晚上__I18N_0": {
-      "file": "layui/src/modules/util.js",
-      "raw": "晚上",
-      "range": {
-        "start": {
-          "line": 292,
-          "column": 18,
-          "index": 8292
-        },
-        "end": {
-          "line": 292,
-          "column": 20,
-          "index": 8294
-        }
-      }
-    }
-  },
-  "upload": {
-    "文件__I18N_0": {
-      "file": "layui/src/modules/upload.js",
-      "raw": "文件",
-      "range": {
-        "start": {
-          "line": 473,
-          "column": 13,
-          "index": 13082
-        },
-        "end": {
-          "line": 473,
-          "column": 15,
-          "index": 13084
-        }
-      }
-    },
-    "图片__I18N_0": {
-      "file": "layui/src/modules/upload.js",
-      "raw": "图片",
-      "range": {
-        "start": {
-          "line": 474,
-          "column": 15,
-          "index": 13103
-        },
-        "end": {
-          "line": 474,
+          "line": 203,
           "column": 17,
-          "index": 13105
+          "index": 5035
+        },
+        "end": {
+          "line": 203,
+          "column": 21,
+          "index": 5039
         }
       }
     },
-    "视频__I18N_0": {
-      "file": "layui/src/modules/upload.js",
-      "raw": "视频",
+    "已复制__I18N_0": {
+      "file": "layui/src/modules/code.js",
+      "raw": "已复制",
       "range": {
         "start": {
-          "line": 475,
-          "column": 14,
-          "index": 13123
-        },
-        "end": {
-          "line": 475,
-          "column": 16,
-          "index": 13125
-        }
-      }
-    },
-    "音频__I18N_0": {
-      "file": "layui/src/modules/upload.js",
-      "raw": "音频",
-      "range": {
-        "start": {
-          "line": 476,
-          "column": 14,
-          "index": 13143
-        },
-        "end": {
-          "line": 476,
-          "column": 16,
-          "index": 13145
-        }
-      }
-    },
-    "文件__I18N_1": {
-      "file": "layui/src/modules/upload.js",
-      "raw": "文件",
-      "range": {
-        "start": {
-          "line": 477,
-          "column": 27,
-          "index": 13175
-        },
-        "end": {
-          "line": 477,
-          "column": 29,
-          "index": 13177
-        }
-      }
-    },
-    "选择的__I18N_0": {
-      "file": "layui/src/modules/upload.js",
-      "raw": "选择的",
-      "range": {
-        "start": {
-          "line": 521,
-          "column": 40,
-          "index": 14467
-        },
-        "end": {
-          "line": 521,
-          "column": 43,
-          "index": 14470
-        }
-      }
-    },
-    "中包含不支持的格式__I18N_0": {
-      "file": "layui/src/modules/upload.js",
-      "raw": "中包含不支持的格式",
-      "range": {
-        "start": {
-          "line": 521,
-          "column": 57,
-          "index": 14484
-        },
-        "end": {
-          "line": 521,
-          "column": 66,
-          "index": 14493
-        }
-      }
-    },
-    "同时最多只能上传:__I18N_0": {
-      "file": "layui/src/modules/upload.js",
-      "raw": "同时最多只能上传: ",
-      "range": {
-        "start": {
-          "line": 547,
-          "column": 9,
-          "index": 15141
-        },
-        "end": {
-          "line": 547,
-          "column": 19,
-          "index": 15151
-        }
-      }
-    },
-    "个文件__I18N_0": {
-      "file": "layui/src/modules/upload.js",
-      "raw": " 个文件",
-      "range": {
-        "start": {
-          "line": 547,
-          "column": 40,
-          "index": 15172
-        },
-        "end": {
-          "line": 547,
-          "column": 44,
-          "index": 15176
-        }
-      }
-    },
-    "<br>您当前已经选择了:__I18N_0": {
-      "file": "layui/src/modules/upload.js",
-      "raw": "<br>您当前已经选择了: ",
-      "range": {
-        "start": {
-          "line": 548,
-          "column": 10,
-          "index": 15189
-        },
-        "end": {
-          "line": 548,
-          "column": 24,
-          "index": 15203
-        }
-      }
-    },
-    "个文件__I18N_1": {
-      "file": "layui/src/modules/upload.js",
-      "raw": " 个文件",
-      "range": {
-        "start": {
-          "line": 548,
-          "column": 45,
-          "index": 15224
-        },
-        "end": {
-          "line": 548,
-          "column": 49,
-          "index": 15228
-        }
-      }
-    },
-    "文件大小不能超过__I18N_0": {
-      "file": "layui/src/modules/upload.js",
-      "raw": "文件大小不能超过 ",
-      "range": {
-        "start": {
-          "line": 566,
-          "column": 9,
-          "index": 15798
-        },
-        "end": {
-          "line": 566,
-          "column": 18,
-          "index": 15807
-        }
-      }
-    },
-    "个文件__I18N_2": {
-      "file": "layui/src/modules/upload.js",
-      "raw": "个文件",
-      "range": {
-        "start": {
-          "line": 591,
-          "column": 26,
-          "index": 16448
-        },
-        "end": {
-          "line": 591,
-          "column": 29,
-          "index": 16451
-        }
-      }
-    }
-  },
-  "treeTable": {
-    "找不到节点数据__I18N_0": {
-      "file": "layui/src/modules/treeTable.js",
-      "raw": "找不到节点数据",
-      "range": {
-        "start": {
-          "line": 348,
+          "line": 217,
           "column": 25,
-          "index": 11349
+          "index": 5476
         },
         "end": {
-          "line": 348,
-          "column": 32,
-          "index": 11356
-        }
-      }
-    },
-    "找不到节点数据__I18N_1": {
-      "file": "layui/src/modules/treeTable.js",
-      "raw": "找不到节点数据",
-      "range": {
-        "start": {
-          "line": 370,
-          "column": 25,
-          "index": 11940
-        },
-        "end": {
-          "line": 370,
-          "column": 32,
-          "index": 11947
-        }
-      }
-    },
-    "expandAll 的展开状态参数只接收true/false__I18N_0": {
-      "file": "layui/src/modules/treeTable.js",
-      "raw": "expandAll 的展开状态参数只接收true/false",
-      "range": {
-        "start": {
-          "line": 823,
-          "column": 25,
-          "index": 29147
-        },
-        "end": {
-          "line": 823,
-          "column": 55,
-          "index": 29177
-        }
-      }
-    }
-  },
-  "tree": {
-    "未命名__I18N_0": {
-      "file": "layui/src/modules/tree.js",
-      "raw": "未命名",
-      "range": {
-        "start": {
-          "line": 110,
-          "column": 24,
-          "index": 2787
-        },
-        "end": {
-          "line": 110,
-          "column": 27,
-          "index": 2790
-        }
-      }
-    },
-    "无数据__I18N_0": {
-      "file": "layui/src/modules/tree.js",
-      "raw": "无数据",
-      "range": {
-        "start": {
-          "line": 111,
-          "column": 13,
-          "index": 2817
-        },
-        "end": {
-          "line": 111,
-          "column": 16,
-          "index": 2820
-        }
-      }
-    },
-    "确认删除该节点 \"<span style=\"color: #999;\">__I18N_0": {
-      "file": "layui/src/modules/tree.js",
-      "raw": "确认删除该节点 \"<span style=\"color: #999;\">",
-      "range": {
-        "start": {
-          "line": 578,
-          "column": 23,
-          "index": 18822
-        },
-        "end": {
-          "line": 578,
-          "column": 59,
-          "index": 18858
-        }
-      }
-    },
-    "</span>\" 吗？__I18N_0": {
-      "file": "layui/src/modules/tree.js",
-      "raw": "</span>\" 吗？",
-      "range": {
-        "start": {
-          "line": 578,
-          "column": 95,
-          "index": 18894
-        },
-        "end": {
-          "line": 578,
-          "column": 106,
-          "index": 18905
-        }
-      }
-    }
-  },
-  "transfer": {
-    "<input type=\"text\" class=\"layui-input\" placeholder=\"关键词搜索\">__I18N_0": {
-      "file": "layui/src/modules/transfer.js",
-      "raw": "<input type=\"text\" class=\"layui-input\" placeholder=\"关键词搜索\">",
-      "range": {
-        "start": {
-          "line": 82,
-          "column": 9,
-          "index": 2292
-        },
-        "end": {
-          "line": 82,
-          "column": 68,
-          "index": 2351
-        }
-      }
-    },
-    "列表一__I18N_0": {
-      "file": "layui/src/modules/transfer.js",
-      "raw": "列表一",
-      "range": {
-        "start": {
-          "line": 119,
-          "column": 13,
-          "index": 3503
-        },
-        "end": {
-          "line": 119,
-          "column": 16,
-          "index": 3506
-        }
-      }
-    },
-    "列表二__I18N_0": {
-      "file": "layui/src/modules/transfer.js",
-      "raw": "列表二",
-      "range": {
-        "start": {
-          "line": 119,
-          "column": 20,
-          "index": 3510
-        },
-        "end": {
-          "line": 119,
-          "column": 23,
-          "index": 3513
-        }
-      }
-    },
-    "无数据__I18N_0": {
-      "file": "layui/src/modules/transfer.js",
-      "raw": "无数据",
-      "range": {
-        "start": {
-          "line": 127,
-          "column": 13,
-          "index": 3692
-        },
-        "end": {
-          "line": 127,
-          "column": 16,
-          "index": 3695
-        }
-      }
-    },
-    "无匹配数据__I18N_0": {
-      "file": "layui/src/modules/transfer.js",
-      "raw": "无匹配数据",
-      "range": {
-        "start": {
-          "line": 128,
-          "column": 19,
-          "index": 3718
-        },
-        "end": {
-          "line": 128,
-          "column": 24,
-          "index": 3723
-        }
-      }
-    }
-  },
-  "table": {
-    "<span class=\"layui-table-sort layui-inline\"><i class=\"layui-edge layui-table-sort-asc\" title=\"升序\"></i><i class=\"layui-edge layui-table-sort-desc\" title=\"降序\"></i></span>__I18N_0": {
-      "file": "layui/src/modules/table.js",
-      "raw": "<span class=\"layui-table-sort layui-inline\"><i class=\"layui-edge layui-table-sort-asc\" title=\"升序\"></i><i class=\"layui-edge layui-table-sort-desc\" title=\"降序\"></i></span>",
-      "range": {
-        "start": {
-          "line": 191,
-          "column": 20,
-          "index": 7166
-        },
-        "end": {
-          "line": 191,
-          "column": 188,
-          "index": 7334
-        }
-      }
-    },
-    "无数据__I18N_0": {
-      "file": "layui/src/modules/table.js",
-      "raw": "无数据",
-      "range": {
-        "start": {
-          "line": 295,
-          "column": 13,
-          "index": 10826
-        },
-        "end": {
-          "line": 295,
-          "column": 16,
-          "index": 10829
-        }
-      }
-    },
-    "筛选列__I18N_0": {
-      "file": "layui/src/modules/table.js",
-      "raw": "筛选列",
-      "range": {
-        "start": {
-          "line": 633,
-          "column": 16,
-          "index": 21018
-        },
-        "end": {
-          "line": 633,
-          "column": 19,
-          "index": 21021
-        }
-      }
-    },
-    "导出__I18N_0": {
-      "file": "layui/src/modules/table.js",
-      "raw": "导出",
-      "range": {
-        "start": {
-          "line": 638,
-          "column": 16,
-          "index": 21138
-        },
-        "end": {
-          "line": 638,
-          "column": 18,
-          "index": 21140
-        }
-      }
-    },
-    "打印__I18N_0": {
-      "file": "layui/src/modules/table.js",
-      "raw": "打印",
-      "range": {
-        "start": {
-          "line": 643,
-          "column": 16,
-          "index": 21259
-        },
-        "end": {
-          "line": 643,
-          "column": 18,
-          "index": 21261
-        }
-      }
-    },
-    "返回的数据不符合规范，正确的成功状态码应为：\"__I18N_0": {
-      "file": "layui/src/modules/table.js",
-      "raw": "返回的数据不符合规范，正确的成功状态码应为：\"",
-      "range": {
-        "start": {
-          "line": 1060,
-          "column": 16,
-          "index": 34038
-        },
-        "end": {
-          "line": 1060,
-          "column": 39,
-          "index": 34061
-        }
-      }
-    },
-    "请求异常，错误提示：__I18N_0": {
-      "file": "layui/src/modules/table.js",
-      "raw": "请求异常，错误提示：",
-      "range": {
-        "start": {
-          "line": 1077,
-          "column": 26,
-          "index": 34609
-        },
-        "end": {
-          "line": 1077,
-          "column": 36,
-          "index": 34619
-        }
-      }
-    },
-    "当前表格无数据__I18N_0": {
-      "file": "layui/src/modules/table.js",
-      "raw": "当前表格无数据",
-      "range": {
-        "start": {
-          "line": 2053,
-          "column": 47,
-          "index": 64974
-        },
-        "end": {
-          "line": 2053,
-          "column": 54,
-          "index": 64981
-        }
-      }
-    },
-    "导出功能不支持 IE，请用 Chrome 等高级浏览器导出__I18N_0": {
-      "file": "layui/src/modules/table.js",
-      "raw": "导出功能不支持 IE，请用 Chrome 等高级浏览器导出",
-      "range": {
-        "start": {
-          "line": 2055,
-          "column": 24,
-          "index": 65053
-        },
-        "end": {
-          "line": 2055,
-          "column": 53,
-          "index": 65082
-        }
-      }
-    },
-    "<li data-type=\"csv\">导出 csv 格式文件</li>__I18N_0": {
-      "file": "layui/src/modules/table.js",
-      "raw": "<li data-type=\"csv\">导出 csv 格式文件</li>",
-      "range": {
-        "start": {
-          "line": 2062,
-          "column": 19,
-          "index": 65257
-        },
-        "end": {
-          "line": 2062,
-          "column": 55,
-          "index": 65293
-        }
-      }
-    },
-    "<li data-type=\"xls\">导出 xls 格式文件</li>__I18N_0": {
-      "file": "layui/src/modules/table.js",
-      "raw": "<li data-type=\"xls\">导出 xls 格式文件</li>",
-      "range": {
-        "start": {
-          "line": 2063,
-          "column": 19,
-          "index": 65316
-        },
-        "end": {
-          "line": 2063,
-          "column": 55,
-          "index": 65352
-        }
-      }
-    },
-    "当前表格无数据__I18N_1": {
-      "file": "layui/src/modules/table.js",
-      "raw": "当前表格无数据",
-      "range": {
-        "start": {
-          "line": 2076,
-          "column": 47,
-          "index": 65785
-        },
-        "end": {
-          "line": 2076,
-          "column": 54,
-          "index": 65792
-        }
-      }
-    }
-  },
-  "rate": {
-    "星__I18N_0": {
-      "file": "layui/src/modules/rate.js",
-      "raw": "星",
-      "range": {
-        "start": {
-          "line": 118,
-          "column": 87,
-          "index": 3172
-        },
-        "end": {
-          "line": 118,
-          "column": 88,
-          "index": 3173
-        }
-      }
-    },
-    "星__I18N_1": {
-      "file": "layui/src/modules/rate.js",
-      "raw": "星",
-      "range": {
-        "start": {
-          "line": 175,
-          "column": 65,
-          "index": 4526
-        },
-        "end": {
-          "line": 175,
-          "column": 66,
-          "index": 4527
-        }
-      }
-    },
-    "星__I18N_2": {
-      "file": "layui/src/modules/rate.js",
-      "raw": "星",
-      "range": {
-        "start": {
-          "line": 255,
-          "column": 65,
-          "index": 7425
-        },
-        "end": {
-          "line": 255,
-          "column": 66,
-          "index": 7426
-        }
-      }
-    }
-  },
-  "laypage": {
-    "上一页__I18N_0": {
-      "file": "layui/src/modules/laypage.js",
-      "raw": "上一页",
-      "range": {
-        "start": {
-          "line": 74,
-          "column": 52,
-          "index": 1752
-        },
-        "end": {
-          "line": 74,
-          "column": 55,
-          "index": 1755
-        }
-      }
-    },
-    "下一页__I18N_0": {
-      "file": "layui/src/modules/laypage.js",
-      "raw": "下一页",
-      "range": {
-        "start": {
-          "line": 75,
-          "column": 52,
-          "index": 1820
-        },
-        "end": {
-          "line": 75,
-          "column": 55,
-          "index": 1823
-        }
-      }
-    },
-    "<a class=\"layui-laypage-first\" data-page=\"1\"  title=\"首页\">__I18N_0": {
-      "file": "layui/src/modules/laypage.js",
-      "raw": "<a class=\"layui-laypage-first\" data-page=\"1\"  title=\"首页\">",
-      "range": {
-        "start": {
-          "line": 102,
-          "column": 22,
-          "index": 2560
-        },
-        "end": {
-          "line": 102,
-          "column": 79,
-          "index": 2617
-        }
-      }
-    },
-    "<a class=\"layui-laypage-last\" title=\"尾页\"  data-page=\"__I18N_0": {
-      "file": "layui/src/modules/laypage.js",
-      "raw": "<a class=\"layui-laypage-last\" title=\"尾页\"  data-page=\"",
-      "range": {
-        "start": {
-          "line": 139,
-          "column": 24,
-          "index": 4009
-        },
-        "end": {
-          "line": 139,
-          "column": 77,
-          "index": 4062
-        }
-      }
-    },
-    "共__I18N_0": {
-      "file": "layui/src/modules/laypage.js",
-      "raw": "共 ",
-      "range": {
-        "start": {
-          "line": 155,
-          "column": 84,
-          "index": 4594
-        },
-        "end": {
-          "line": 155,
-          "column": 86,
-          "index": 4596
-        }
-      }
-    },
-    "条__I18N_0": {
-      "file": "layui/src/modules/laypage.js",
-      "raw": " 条",
-      "range": {
-        "start": {
-          "line": 155,
-          "column": 90,
-          "index": 4600
-        },
-        "end": {
-          "line": 155,
-          "column": 92,
-          "index": 4602
-        }
-      }
-    },
-    "条/页__I18N_0": {
-      "file": "layui/src/modules/laypage.js",
-      "raw": " 条/页",
-      "range": {
-        "start": {
-          "line": 163,
-          "column": 27,
-          "index": 4927
-        },
-        "end": {
-          "line": 163,
-          "column": 31,
-          "index": 4931
-        }
-      }
-    },
-    "到第__I18N_0": {
-      "file": "layui/src/modules/laypage.js",
-      "raw": "到第",
-      "range": {
-        "start": {
-          "line": 191,
-          "column": 11,
-          "index": 5772
-        },
-        "end": {
-          "line": 191,
-          "column": 13,
-          "index": 5774
-        }
-      }
-    },
-    "页__I18N_0": {
-      "file": "layui/src/modules/laypage.js",
-      "raw": "页",
-      "range": {
-        "start": {
-          "line": 192,
-          "column": 11,
-          "index": 5789
-        },
-        "end": {
-          "line": 192,
-          "column": 12,
-          "index": 5790
-        }
-      }
-    },
-    "确定__I18N_0": {
-      "file": "layui/src/modules/laypage.js",
-      "raw": "确定",
-      "range": {
-        "start": {
-          "line": 193,
-          "column": 11,
-          "index": 5805
-        },
-        "end": {
-          "line": 193,
-          "column": 13,
-          "index": 5807
-        }
-      }
-    }
-  },
-  "form": {
-    "必填项不能为空__I18N_0": {
-      "file": "layui/src/modules/form.js",
-      "raw": "必填项不能为空",
-      "range": {
-        "start": {
-          "line": 27,
-          "column": 20,
-          "index": 659
-        },
-        "end": {
-          "line": 27,
-          "column": 27,
-          "index": 666
-        }
-      }
-    },
-    "手机号格式不正确__I18N_0": {
-      "file": "layui/src/modules/form.js",
-      "raw": "手机号格式不正确",
-      "range": {
-        "start": {
-          "line": 33,
-          "column": 20,
-          "index": 827
-        },
-        "end": {
-          "line": 33,
+          "line": 217,
           "column": 28,
-          "index": 835
+          "index": 5479
         }
       }
     },
-    "邮箱格式不正确__I18N_0": {
-      "file": "layui/src/modules/form.js",
-      "raw": "邮箱格式不正确",
+    "复制失败__I18N_0": {
+      "file": "layui/src/modules/code.js",
+      "raw": "复制失败",
       "range": {
         "start": {
-          "line": 39,
-          "column": 20,
-          "index": 1050
+          "line": 224,
+          "column": 25,
+          "index": 5708
         },
         "end": {
-          "line": 39,
-          "column": 27,
-          "index": 1057
-        }
-      }
-    },
-    "链接格式不正确__I18N_0": {
-      "file": "layui/src/modules/form.js",
-      "raw": "链接格式不正确",
-      "range": {
-        "start": {
-          "line": 45,
-          "column": 20,
-          "index": 1247
-        },
-        "end": {
-          "line": 45,
-          "column": 27,
-          "index": 1254
-        }
-      }
-    },
-    "只能填写数字__I18N_0": {
-      "file": "layui/src/modules/form.js",
-      "raw": "只能填写数字",
-      "range": {
-        "start": {
-          "line": 50,
-          "column": 20,
-          "index": 1377
-        },
-        "end": {
-          "line": 50,
-          "column": 26,
-          "index": 1383
-        }
-      }
-    },
-    "日期格式不正确__I18N_0": {
-      "file": "layui/src/modules/form.js",
-      "raw": "日期格式不正确",
-      "range": {
-        "start": {
-          "line": 56,
-          "column": 20,
-          "index": 1608
-        },
-        "end": {
-          "line": 56,
-          "column": 27,
-          "index": 1615
-        }
-      }
-    },
-    "身份证号格式不正确__I18N_0": {
-      "file": "layui/src/modules/form.js",
-      "raw": "身份证号格式不正确",
-      "range": {
-        "start": {
-          "line": 62,
-          "column": 20,
-          "index": 1799
-        },
-        "end": {
-          "line": 62,
+          "line": 224,
           "column": 29,
-          "index": 1808
+          "index": 5712
         }
       }
     },
-    "请选择__I18N_0": {
-      "file": "layui/src/modules/form.js",
-      "raw": "请选择",
+    "最大化显示__I18N_0": {
+      "file": "layui/src/modules/code.js",
+      "raw": "最大化显示",
       "range": {
         "start": {
-          "line": 373,
-          "column": 20,
-          "index": 12143
+          "line": 279,
+          "column": 19,
+          "index": 7363
         },
         "end": {
-          "line": 373,
-          "column": 23,
-          "index": 12146
-        }
-      }
-    },
-    "\">无匹配项</p>__I18N_0": {
-      "file": "layui/src/modules/form.js",
-      "raw": "\">无匹配项</p>",
-      "range": {
-        "start": {
-          "line": 611,
-          "column": 71,
-          "index": 20450
-        },
-        "end": {
-          "line": 611,
-          "column": 81,
-          "index": 20460
-        }
-      }
-    },
-    "\">没有选项</dd>__I18N_0": {
-      "file": "layui/src/modules/form.js",
-      "raw": "\">没有选项</dd>",
-      "range": {
-        "start": {
-          "line": 729,
-          "column": 82,
-          "index": 25381
-        },
-        "end": {
-          "line": 729,
-          "column": 93,
-          "index": 25392
-        }
-      }
-    },
-    "不支持的 \"__I18N_0": {
-      "file": "layui/src/modules/form.js",
-      "raw": "不支持的 \"",
-      "range": {
-        "start": {
-          "line": 951,
-          "column": 50,
-          "index": 33301
-        },
-        "end": {
-          "line": 951,
-          "column": 56,
-          "index": 33307
-        }
-      }
-    },
-    "\" 表单渲染__I18N_0": {
-      "file": "layui/src/modules/form.js",
-      "raw": "\" 表单渲染",
-      "range": {
-        "start": {
-          "line": 951,
-          "column": 67,
-          "index": 33318
-        },
-        "end": {
-          "line": 951,
-          "column": 73,
-          "index": 33324
-        }
-      }
-    },
-    "提示__I18N_0": {
-      "file": "layui/src/modules/form.js",
-      "raw": "提示",
-      "range": {
-        "start": {
-          "line": 1029,
-          "column": 46,
-          "index": 35685
-        },
-        "end": {
-          "line": 1029,
-          "column": 48,
-          "index": 35687
-        }
-      }
-    }
-  },
-  "flow": {
-    "没有更多了__I18N_0": {
-      "file": "layui/src/modules/flow.js",
-      "raw": "没有更多了",
-      "range": {
-        "start": {
-          "line": 21,
-          "column": 30,
-          "index": 689
-        },
-        "end": {
-          "line": 21,
-          "column": 35,
-          "index": 694
-        }
-      }
-    },
-    "<cite>加载更多</cite>__I18N_0": {
-      "file": "layui/src/modules/flow.js",
-      "raw": "<cite>加载更多</cite>",
-      "range": {
-        "start": {
-          "line": 27,
-          "column": 21,
-          "index": 850
-        },
-        "end": {
-          "line": 27,
-          "column": 38,
-          "index": 867
-        }
-      }
-    }
-  },
-  "layer": {
-    "确定__I18N_0": {
-      "file": "layui/src/modules/layer.js",
-      "raw": "确定",
-      "range": {
-        "start": {
-          "line": 35,
-          "column": 9,
-          "index": 822
-        },
-        "end": {
-          "line": 35,
-          "column": 11,
-          "index": 824
-        }
-      }
-    },
-    "取消__I18N_0": {
-      "file": "layui/src/modules/layer.js",
-      "raw": "取消",
-      "range": {
-        "start": {
-          "line": 35,
-          "column": 15,
-          "index": 828
-        },
-        "end": {
-          "line": 35,
-          "column": 17,
-          "index": 830
-        }
-      }
-    },
-    "信息__I18N_0": {
-      "file": "layui/src/modules/layer.js",
-      "raw": "信息",
-      "range": {
-        "start": {
-          "line": 266,
-          "column": 10,
-          "index": 7251
-        },
-        "end": {
-          "line": 266,
-          "column": 12,
-          "index": 7253
-        }
-      }
-    },
-    "确定__I18N_1": {
-      "file": "layui/src/modules/layer.js",
-      "raw": "确定",
-      "range": {
-        "start": {
-          "line": 1333,
-          "column": 11,
-          "index": 39968
-        },
-        "end": {
-          "line": 1333,
-          "column": 13,
-          "index": 39970
-        }
-      }
-    },
-    "取消__I18N_1": {
-      "file": "layui/src/modules/layer.js",
-      "raw": "取消",
-      "range": {
-        "start": {
-          "line": 1333,
-          "column": 16,
-          "index": 39973
-        },
-        "end": {
-          "line": 1333,
-          "column": 18,
-          "index": 39975
-        }
-      }
-    },
-    "最多输入__I18N_0": {
-      "file": "layui/src/modules/layer.js",
-      "raw": "最多输入",
-      "range": {
-        "start": {
-          "line": 1346,
-          "column": 20,
-          "index": 40430
-        },
-        "end": {
-          "line": 1346,
+          "line": 279,
           "column": 24,
-          "index": 40434
+          "index": 7368
         }
       }
     },
-    "个字符__I18N_0": {
-      "file": "layui/src/modules/layer.js",
-      "raw": "个字符",
+    "还原显示__I18N_0": {
+      "file": "layui/src/modules/code.js",
+      "raw": "还原显示",
       "range": {
         "start": {
-          "line": 1346,
-          "column": 56,
-          "index": 40466
+          "line": 279,
+          "column": 28,
+          "index": 7372
         },
         "end": {
-          "line": 1346,
-          "column": 59,
-          "index": 40469
+          "line": 279,
+          "column": 32,
+          "index": 7376
         }
       }
     },
-    "没有图片__I18N_0": {
-      "file": "layui/src/modules/layer.js",
-      "raw": "没有图片",
+    "在新窗口预览__I18N_0": {
+      "file": "layui/src/modules/code.js",
+      "raw": "在新窗口预览",
       "range": {
         "start": {
-          "line": 1462,
-          "column": 22,
-          "index": 43849
+          "line": 304,
+          "column": 19,
+          "index": 8391
         },
         "end": {
-          "line": 1462,
-          "column": 26,
-          "index": 43853
+          "line": 304,
+          "column": 25,
+          "index": 8397
         }
       }
     },
-    "<span toolbar-event=\"rotate\" data-option=\"90\" title=\"旋转\"><i class=\"layui-icon layui-icon-refresh\"></i></span>__I18N_0": {
-      "file": "layui/src/modules/layer.js",
-      "raw": "<span toolbar-event=\"rotate\" data-option=\"90\" title=\"旋转\"><i class=\"layui-icon layui-icon-refresh\"></i></span>",
+    "<i class=\"layui-icon layui-icon-file-b\" title=\"复制\"></i>__I18N_0": {
+      "file": "layui/src/modules/code.js",
+      "raw": "<i class=\"layui-icon layui-icon-file-b\" title=\"复制\"></i>",
       "range": {
         "start": {
-          "line": 1710,
-          "column": 17,
-          "index": 50938
+          "line": 564,
+          "column": 9,
+          "index": 15806
         },
         "end": {
-          "line": 1710,
-          "column": 126,
-          "index": 51047
-        }
-      }
-    },
-    "<span toolbar-event=\"scalex\" title=\"变换\"><i class=\"layui-icon layui-icon-slider\"></i></span>__I18N_0": {
-      "file": "layui/src/modules/layer.js",
-      "raw": "<span toolbar-event=\"scalex\" title=\"变换\"><i class=\"layui-icon layui-icon-slider\"></i></span>",
-      "range": {
-        "start": {
-          "line": 1711,
-          "column": 17,
-          "index": 51068
-        },
-        "end": {
-          "line": 1711,
-          "column": 108,
-          "index": 51159
-        }
-      }
-    },
-    "<span toolbar-event=\"zoom\" data-option=\"0.1\" title=\"放大\"><i class=\"layui-icon layui-icon-add-circle\"></i></span>__I18N_0": {
-      "file": "layui/src/modules/layer.js",
-      "raw": "<span toolbar-event=\"zoom\" data-option=\"0.1\" title=\"放大\"><i class=\"layui-icon layui-icon-add-circle\"></i></span>",
-      "range": {
-        "start": {
-          "line": 1712,
-          "column": 17,
-          "index": 51180
-        },
-        "end": {
-          "line": 1712,
-          "column": 128,
-          "index": 51291
-        }
-      }
-    },
-    "<span toolbar-event=\"zoom\" data-option=\"-0.1\" title=\"缩小\"><i class=\"layui-icon layui-icon-reduce-circle\"></i></span>__I18N_0": {
-      "file": "layui/src/modules/layer.js",
-      "raw": "<span toolbar-event=\"zoom\" data-option=\"-0.1\" title=\"缩小\"><i class=\"layui-icon layui-icon-reduce-circle\"></i></span>",
-      "range": {
-        "start": {
-          "line": 1713,
-          "column": 17,
-          "index": 51312
-        },
-        "end": {
-          "line": 1713,
-          "column": 132,
-          "index": 51427
-        }
-      }
-    },
-    "<span toolbar-event=\"reset\" title=\"还原\"><i class=\"layui-icon layui-icon-refresh-1\"></i></span>__I18N_0": {
-      "file": "layui/src/modules/layer.js",
-      "raw": "<span toolbar-event=\"reset\" title=\"还原\"><i class=\"layui-icon layui-icon-refresh-1\"></i></span>",
-      "range": {
-        "start": {
-          "line": 1714,
-          "column": 17,
-          "index": 51448
-        },
-        "end": {
-          "line": 1714,
-          "column": 110,
-          "index": 51541
-        }
-      }
-    },
-    "<span toolbar-event=\"close\" title=\"关闭\"><i class=\"layui-icon layui-icon-close\"></i></span>__I18N_0": {
-      "file": "layui/src/modules/layer.js",
-      "raw": "<span toolbar-event=\"close\" title=\"关闭\"><i class=\"layui-icon layui-icon-close\"></i></span>",
-      "range": {
-        "start": {
-          "line": 1715,
-          "column": 17,
-          "index": 51562
-        },
-        "end": {
-          "line": 1715,
-          "column": 106,
-          "index": 51651
-        }
-      }
-    },
-    "\" target=\"_blank\">查看原图</a>__I18N_0": {
-      "file": "layui/src/modules/layer.js",
-      "raw": "\" target=\"_blank\">查看原图</a>",
-      "range": {
-        "start": {
-          "line": 1725,
-          "column": 45,
-          "index": 52013
-        },
-        "end": {
-          "line": 1725,
-          "column": 71,
-          "index": 52039
-        }
-      }
-    },
-    "当前图片地址异常，<br>是否继续查看下一张？__I18N_0": {
-      "file": "layui/src/modules/layer.js",
-      "raw": "当前图片地址异常，<br>是否继续查看下一张？",
-      "range": {
-        "start": {
-          "line": 1747,
-          "column": 15,
-          "index": 52762
-        },
-        "end": {
-          "line": 1747,
-          "column": 38,
-          "index": 52785
-        }
-      }
-    },
-    "下一张__I18N_0": {
-      "file": "layui/src/modules/layer.js",
-      "raw": "下一张",
-      "range": {
-        "start": {
-          "line": 1749,
-          "column": 13,
-          "index": 52825
-        },
-        "end": {
-          "line": 1749,
-          "column": 16,
-          "index": 52828
-        }
-      }
-    },
-    "不看了__I18N_0": {
-      "file": "layui/src/modules/layer.js",
-      "raw": "不看了",
-      "range": {
-        "start": {
-          "line": 1749,
-          "column": 20,
-          "index": 52832
-        },
-        "end": {
-          "line": 1749,
-          "column": 23,
-          "index": 52835
-        }
-      }
-    }
-  },
-  "dropdown": {
-    "<li class=\"layui-menu-item-none\">暂无数据</li>__I18N_0": {
-      "file": "layui/src/modules/dropdown.js",
-      "raw": "<li class=\"layui-menu-item-none\">暂无数据</li>",
-      "range": {
-        "start": {
-          "line": 169,
-          "column": 21,
-          "index": 4712
-        },
-        "end": {
-          "line": 169,
-          "column": 63,
-          "index": 4754
+          "line": 564,
+          "column": 64,
+          "index": 15861
         }
       }
     }
@@ -1551,12 +121,12 @@
         "start": {
           "line": 287,
           "column": 12,
-          "index": 8961
+          "index": 8582
         },
         "end": {
           "line": 287,
           "column": 107,
-          "index": 9056
+          "index": 8677
         }
       }
     },
@@ -1567,126 +137,274 @@
         "start": {
           "line": 288,
           "column": 12,
-          "index": 9071
+          "index": 8691
         },
         "end": {
           "line": 288,
           "column": 91,
-          "index": 9150
+          "index": 8770
         }
       }
     }
   },
-  "code": {
-    "复制代码__I18N_0": {
-      "file": "layui/src/modules/code.js",
-      "raw": "复制代码",
+  "dropdown": {
+    "<li class=\"layui-menu-item-none\">暂无数据</li>__I18N_0": {
+      "file": "layui/src/modules/dropdown.js",
+      "raw": "<li class=\"layui-menu-item-none\">暂无数据</li>",
       "range": {
         "start": {
-          "line": 202,
-          "column": 17,
-          "index": 5204
-        },
-        "end": {
-          "line": 202,
+          "line": 183,
           "column": 21,
-          "index": 5208
+          "index": 4904
+        },
+        "end": {
+          "line": 183,
+          "column": 63,
+          "index": 4946
+        }
+      }
+    }
+  },
+  "flow": {
+    "加载更多__I18N_0": {
+      "file": "layui/src/modules/flow.js",
+      "raw": "加载更多",
+      "range": {
+        "start": {
+          "line": 22,
+          "column": 40,
+          "index": 718
+        },
+        "end": {
+          "line": 22,
+          "column": 44,
+          "index": 722
         }
       }
     },
-    "已复制__I18N_0": {
-      "file": "layui/src/modules/code.js",
-      "raw": "已复制",
+    "没有更多了__I18N_0": {
+      "file": "layui/src/modules/flow.js",
+      "raw": "没有更多了",
       "range": {
         "start": {
-          "line": 210,
-          "column": 25,
-          "index": 5447
+          "line": 23,
+          "column": 30,
+          "index": 773
         },
         "end": {
-          "line": 210,
+          "line": 23,
+          "column": 35,
+          "index": 778
+        }
+      }
+    }
+  },
+  "form": {
+    "必填项不能为空__I18N_0": {
+      "file": "layui/src/modules/form.js",
+      "raw": "必填项不能为空",
+      "range": {
+        "start": {
+          "line": 29,
+          "column": 20,
+          "index": 779
+        },
+        "end": {
+          "line": 29,
+          "column": 27,
+          "index": 786
+        }
+      }
+    },
+    "手机号格式不正确__I18N_0": {
+      "file": "layui/src/modules/form.js",
+      "raw": "手机号格式不正确",
+      "range": {
+        "start": {
+          "line": 35,
+          "column": 20,
+          "index": 941
+        },
+        "end": {
+          "line": 35,
           "column": 28,
-          "index": 5450
+          "index": 949
         }
       }
     },
-    "复制失败__I18N_0": {
-      "file": "layui/src/modules/code.js",
-      "raw": "复制失败",
+    "邮箱格式不正确__I18N_0": {
+      "file": "layui/src/modules/form.js",
+      "raw": "邮箱格式不正确",
       "range": {
         "start": {
-          "line": 213,
-          "column": 25,
-          "index": 5540
+          "line": 41,
+          "column": 20,
+          "index": 1158
         },
         "end": {
-          "line": 213,
+          "line": 41,
+          "column": 27,
+          "index": 1165
+        }
+      }
+    },
+    "链接格式不正确__I18N_0": {
+      "file": "layui/src/modules/form.js",
+      "raw": "链接格式不正确",
+      "range": {
+        "start": {
+          "line": 47,
+          "column": 20,
+          "index": 1349
+        },
+        "end": {
+          "line": 47,
+          "column": 27,
+          "index": 1356
+        }
+      }
+    },
+    "只能填写数字__I18N_0": {
+      "file": "layui/src/modules/form.js",
+      "raw": "只能填写数字",
+      "range": {
+        "start": {
+          "line": 52,
+          "column": 20,
+          "index": 1474
+        },
+        "end": {
+          "line": 52,
+          "column": 26,
+          "index": 1480
+        }
+      }
+    },
+    "日期格式不正确__I18N_0": {
+      "file": "layui/src/modules/form.js",
+      "raw": "日期格式不正确",
+      "range": {
+        "start": {
+          "line": 58,
+          "column": 20,
+          "index": 1699
+        },
+        "end": {
+          "line": 58,
+          "column": 27,
+          "index": 1706
+        }
+      }
+    },
+    "身份证号格式不正确__I18N_0": {
+      "file": "layui/src/modules/form.js",
+      "raw": "身份证号格式不正确",
+      "range": {
+        "start": {
+          "line": 64,
+          "column": 20,
+          "index": 1884
+        },
+        "end": {
+          "line": 64,
           "column": 29,
-          "index": 5544
+          "index": 1893
         }
       }
     },
-    "最大化显示__I18N_0": {
-      "file": "layui/src/modules/code.js",
-      "raw": "最大化显示",
+    "请选择__I18N_0": {
+      "file": "layui/src/modules/form.js",
+      "raw": "请选择",
       "range": {
         "start": {
-          "line": 270,
-          "column": 19,
-          "index": 7325
+          "line": 464,
+          "column": 20,
+          "index": 16116
         },
         "end": {
-          "line": 270,
-          "column": 24,
-          "index": 7330
+          "line": 464,
+          "column": 23,
+          "index": 16119
         }
       }
     },
-    "还原显示__I18N_0": {
-      "file": "layui/src/modules/code.js",
-      "raw": "还原显示",
+    "\">无匹配项</p>__I18N_0": {
+      "file": "layui/src/modules/form.js",
+      "raw": "\">无匹配项</p>",
       "range": {
         "start": {
-          "line": 270,
-          "column": 28,
-          "index": 7334
+          "line": 763,
+          "column": 73,
+          "index": 26772
         },
         "end": {
-          "line": 270,
-          "column": 32,
-          "index": 7338
+          "line": 763,
+          "column": 83,
+          "index": 26782
         }
       }
     },
-    "在新窗口预览__I18N_0": {
-      "file": "layui/src/modules/code.js",
-      "raw": "在新窗口预览",
+    "\">没有选项</dd>__I18N_0": {
+      "file": "layui/src/modules/form.js",
+      "raw": "\">没有选项</dd>",
       "range": {
         "start": {
-          "line": 295,
-          "column": 19,
-          "index": 8378
+          "line": 906,
+          "column": 82,
+          "index": 32225
         },
         "end": {
-          "line": 295,
-          "column": 25,
-          "index": 8384
+          "line": 906,
+          "column": 93,
+          "index": 32236
         }
       }
     },
-    "<i class=\"layui-icon layui-icon-file-b\" title=\"复制\"></i>__I18N_0": {
-      "file": "layui/src/modules/code.js",
-      "raw": "<i class=\"layui-icon layui-icon-file-b\" title=\"复制\"></i>",
+    "不支持的 \"__I18N_0": {
+      "file": "layui/src/modules/form.js",
+      "raw": "不支持的 \"",
       "range": {
         "start": {
-          "line": 552,
-          "column": 9,
-          "index": 15931
+          "line": 1188,
+          "column": 50,
+          "index": 42275
         },
         "end": {
-          "line": 552,
-          "column": 64,
-          "index": 15986
+          "line": 1188,
+          "column": 56,
+          "index": 42281
+        }
+      }
+    },
+    "\" 表单渲染__I18N_0": {
+      "file": "layui/src/modules/form.js",
+      "raw": "\" 表单渲染",
+      "range": {
+        "start": {
+          "line": 1188,
+          "column": 67,
+          "index": 42292
+        },
+        "end": {
+          "line": 1188,
+          "column": 73,
+          "index": 42298
+        }
+      }
+    },
+    "提示__I18N_0": {
+      "file": "layui/src/modules/form.js",
+      "raw": "提示",
+      "range": {
+        "start": {
+          "line": 1314,
+          "column": 46,
+          "index": 46204
+        },
+        "end": {
+          "line": 1314,
+          "column": 48,
+          "index": 46206
         }
       }
     }
@@ -1699,12 +417,12 @@
         "start": {
           "line": 197,
           "column": 17,
-          "index": 5398
+          "index": 5202
         },
         "end": {
           "line": 197,
           "column": 18,
-          "index": 5399
+          "index": 5203
         }
       }
     },
@@ -1715,12 +433,12 @@
         "start": {
           "line": 197,
           "column": 22,
-          "index": 5403
+          "index": 5207
         },
         "end": {
           "line": 197,
           "column": 23,
-          "index": 5404
+          "index": 5208
         }
       }
     },
@@ -1731,12 +449,12 @@
         "start": {
           "line": 197,
           "column": 27,
-          "index": 5408
+          "index": 5212
         },
         "end": {
           "line": 197,
           "column": 28,
-          "index": 5409
+          "index": 5213
         }
       }
     },
@@ -1747,12 +465,12 @@
         "start": {
           "line": 197,
           "column": 32,
-          "index": 5413
+          "index": 5217
         },
         "end": {
           "line": 197,
           "column": 33,
-          "index": 5414
+          "index": 5218
         }
       }
     },
@@ -1763,12 +481,12 @@
         "start": {
           "line": 197,
           "column": 37,
-          "index": 5418
+          "index": 5222
         },
         "end": {
           "line": 197,
           "column": 38,
-          "index": 5419
+          "index": 5223
         }
       }
     },
@@ -1779,12 +497,12 @@
         "start": {
           "line": 197,
           "column": 42,
-          "index": 5423
+          "index": 5227
         },
         "end": {
           "line": 197,
           "column": 43,
-          "index": 5424
+          "index": 5228
         }
       }
     },
@@ -1795,12 +513,12 @@
         "start": {
           "line": 197,
           "column": 47,
-          "index": 5428
+          "index": 5232
         },
         "end": {
           "line": 197,
           "column": 48,
-          "index": 5429
+          "index": 5233
         }
       }
     },
@@ -1811,12 +529,12 @@
         "start": {
           "line": 198,
           "column": 17,
-          "index": 5450
+          "index": 5253
         },
         "end": {
           "line": 198,
           "column": 18,
-          "index": 5451
+          "index": 5254
         }
       }
     },
@@ -1827,12 +545,12 @@
         "start": {
           "line": 198,
           "column": 22,
-          "index": 5455
+          "index": 5258
         },
         "end": {
           "line": 198,
           "column": 23,
-          "index": 5456
+          "index": 5259
         }
       }
     },
@@ -1843,12 +561,12 @@
         "start": {
           "line": 198,
           "column": 27,
-          "index": 5460
+          "index": 5263
         },
         "end": {
           "line": 198,
           "column": 28,
-          "index": 5461
+          "index": 5264
         }
       }
     },
@@ -1859,12 +577,12 @@
         "start": {
           "line": 199,
           "column": 20,
-          "index": 5485
+          "index": 5287
         },
         "end": {
           "line": 199,
           "column": 24,
-          "index": 5489
+          "index": 5291
         }
       }
     },
@@ -1875,12 +593,12 @@
         "start": {
           "line": 200,
           "column": 21,
-          "index": 5513
+          "index": 5314
         },
         "end": {
           "line": 200,
           "column": 25,
-          "index": 5517
+          "index": 5318
         }
       }
     },
@@ -1891,12 +609,12 @@
         "start": {
           "line": 201,
           "column": 19,
-          "index": 5539
+          "index": 5339
         },
         "end": {
           "line": 201,
           "column": 23,
-          "index": 5543
+          "index": 5343
         }
       }
     },
@@ -1907,12 +625,12 @@
         "start": {
           "line": 202,
           "column": 20,
-          "index": 5566
+          "index": 5365
         },
         "end": {
           "line": 202,
           "column": 24,
-          "index": 5570
+          "index": 5369
         }
       }
     },
@@ -1923,12 +641,12 @@
         "start": {
           "line": 203,
           "column": 18,
-          "index": 5591
+          "index": 5389
         },
         "end": {
           "line": 203,
           "column": 19,
-          "index": 5592
+          "index": 5390
         }
       }
     },
@@ -1939,12 +657,12 @@
         "start": {
           "line": 203,
           "column": 23,
-          "index": 5596
+          "index": 5394
         },
         "end": {
           "line": 203,
           "column": 24,
-          "index": 5597
+          "index": 5395
         }
       }
     },
@@ -1955,12 +673,12 @@
         "start": {
           "line": 203,
           "column": 28,
-          "index": 5601
+          "index": 5399
         },
         "end": {
           "line": 203,
           "column": 29,
-          "index": 5602
+          "index": 5400
         }
       }
     },
@@ -1971,12 +689,12 @@
         "start": {
           "line": 203,
           "column": 33,
-          "index": 5606
+          "index": 5404
         },
         "end": {
           "line": 203,
           "column": 34,
-          "index": 5607
+          "index": 5405
         }
       }
     },
@@ -1987,12 +705,12 @@
         "start": {
           "line": 203,
           "column": 38,
-          "index": 5611
+          "index": 5409
         },
         "end": {
           "line": 203,
           "column": 39,
-          "index": 5612
+          "index": 5410
         }
       }
     },
@@ -2003,12 +721,12 @@
         "start": {
           "line": 203,
           "column": 43,
-          "index": 5616
+          "index": 5414
         },
         "end": {
           "line": 203,
           "column": 44,
-          "index": 5617
+          "index": 5415
         }
       }
     },
@@ -2019,12 +737,12 @@
         "start": {
           "line": 203,
           "column": 48,
-          "index": 5621
+          "index": 5419
         },
         "end": {
           "line": 203,
           "column": 49,
-          "index": 5622
+          "index": 5420
         }
       }
     },
@@ -2035,12 +753,12 @@
         "start": {
           "line": 203,
           "column": 53,
-          "index": 5626
+          "index": 5424
         },
         "end": {
           "line": 203,
           "column": 54,
-          "index": 5627
+          "index": 5425
         }
       }
     },
@@ -2051,12 +769,12 @@
         "start": {
           "line": 203,
           "column": 58,
-          "index": 5631
+          "index": 5429
         },
         "end": {
           "line": 203,
           "column": 59,
-          "index": 5632
+          "index": 5430
         }
       }
     },
@@ -2067,12 +785,12 @@
         "start": {
           "line": 203,
           "column": 63,
-          "index": 5636
+          "index": 5434
         },
         "end": {
           "line": 203,
           "column": 64,
-          "index": 5637
+          "index": 5435
         }
       }
     },
@@ -2083,12 +801,12 @@
         "start": {
           "line": 203,
           "column": 68,
-          "index": 5641
+          "index": 5439
         },
         "end": {
           "line": 203,
           "column": 70,
-          "index": 5643
+          "index": 5441
         }
       }
     },
@@ -2099,12 +817,12 @@
         "start": {
           "line": 203,
           "column": 74,
-          "index": 5647
+          "index": 5445
         },
         "end": {
           "line": 203,
           "column": 76,
-          "index": 5649
+          "index": 5447
         }
       }
     },
@@ -2115,12 +833,12 @@
         "start": {
           "line": 205,
           "column": 20,
-          "index": 5692
+          "index": 5488
         },
         "end": {
           "line": 205,
           "column": 22,
-          "index": 5694
+          "index": 5490
         }
       }
     },
@@ -2131,12 +849,12 @@
         "start": {
           "line": 206,
           "column": 19,
-          "index": 5716
+          "index": 5511
         },
         "end": {
           "line": 206,
           "column": 21,
-          "index": 5718
+          "index": 5513
         }
       }
     },
@@ -2147,12 +865,12 @@
         "start": {
           "line": 207,
           "column": 17,
-          "index": 5738
+          "index": 5532
         },
         "end": {
           "line": 207,
           "column": 19,
-          "index": 5740
+          "index": 5534
         }
       }
     },
@@ -2163,12 +881,12 @@
         "start": {
           "line": 209,
           "column": 19,
-          "index": 5773
+          "index": 5565
         },
         "end": {
           "line": 209,
           "column": 40,
-          "index": 5794
+          "index": 5586
         }
       }
     },
@@ -2179,12 +897,12 @@
         "start": {
           "line": 210,
           "column": 23,
-          "index": 5820
+          "index": 5611
         },
         "end": {
           "line": 210,
           "column": 35,
-          "index": 5832
+          "index": 5623
         }
       }
     },
@@ -2195,12 +913,12 @@
         "start": {
           "line": 211,
           "column": 24,
-          "index": 5859
+          "index": 5649
         },
         "end": {
           "line": 211,
           "column": 48,
-          "index": 5883
+          "index": 5673
         }
       }
     },
@@ -2211,12 +929,12 @@
         "start": {
           "line": 211,
           "column": 52,
-          "index": 5887
+          "index": 5677
         },
         "end": {
           "line": 211,
           "column": 61,
-          "index": 5896
+          "index": 5686
         }
       }
     },
@@ -2227,12 +945,12 @@
         "start": {
           "line": 212,
           "column": 19,
-          "index": 5919
+          "index": 5708
         },
         "end": {
           "line": 212,
           "column": 26,
-          "index": 5926
+          "index": 5715
         }
       }
     },
@@ -2241,14 +959,14 @@
       "raw": "元旦",
       "range": {
         "start": {
-          "line": 362,
-          "column": 16,
-          "index": 10866
+          "line": 237,
+          "column": 14,
+          "index": 6559
         },
         "end": {
-          "line": 362,
-          "column": 18,
-          "index": 10868
+          "line": 237,
+          "column": 16,
+          "index": 6561
         }
       }
     },
@@ -2257,14 +975,14 @@
       "raw": "情人",
       "range": {
         "start": {
-          "line": 363,
-          "column": 18,
-          "index": 10889
+          "line": 238,
+          "column": 15,
+          "index": 6579
         },
         "end": {
-          "line": 363,
-          "column": 20,
-          "index": 10891
+          "line": 238,
+          "column": 17,
+          "index": 6581
         }
       }
     },
@@ -2273,14 +991,14 @@
       "raw": "妇女",
       "range": {
         "start": {
-          "line": 364,
-          "column": 17,
-          "index": 10911
+          "line": 239,
+          "column": 14,
+          "index": 6599
         },
         "end": {
-          "line": 364,
-          "column": 19,
-          "index": 10913
+          "line": 239,
+          "column": 16,
+          "index": 6601
         }
       }
     },
@@ -2289,14 +1007,14 @@
       "raw": "植树",
       "range": {
         "start": {
-          "line": 365,
-          "column": 18,
-          "index": 10934
+          "line": 240,
+          "column": 15,
+          "index": 6619
         },
         "end": {
-          "line": 365,
-          "column": 20,
-          "index": 10936
+          "line": 240,
+          "column": 17,
+          "index": 6621
         }
       }
     },
@@ -2305,14 +1023,14 @@
       "raw": "愚人",
       "range": {
         "start": {
-          "line": 366,
-          "column": 17,
-          "index": 10956
+          "line": 241,
+          "column": 14,
+          "index": 6638
         },
         "end": {
-          "line": 366,
-          "column": 19,
-          "index": 10958
+          "line": 241,
+          "column": 16,
+          "index": 6640
         }
       }
     },
@@ -2321,14 +1039,14 @@
       "raw": "劳动",
       "range": {
         "start": {
-          "line": 367,
-          "column": 17,
-          "index": 10978
+          "line": 242,
+          "column": 14,
+          "index": 6657
         },
         "end": {
-          "line": 367,
-          "column": 19,
-          "index": 10980
+          "line": 242,
+          "column": 16,
+          "index": 6659
         }
       }
     },
@@ -2337,14 +1055,14 @@
       "raw": "青年",
       "range": {
         "start": {
-          "line": 368,
-          "column": 17,
-          "index": 11000
+          "line": 243,
+          "column": 14,
+          "index": 6676
         },
         "end": {
-          "line": 368,
-          "column": 19,
-          "index": 11002
+          "line": 243,
+          "column": 16,
+          "index": 6678
         }
       }
     },
@@ -2353,14 +1071,14 @@
       "raw": "儿童",
       "range": {
         "start": {
-          "line": 369,
-          "column": 17,
-          "index": 11022
+          "line": 244,
+          "column": 14,
+          "index": 6695
         },
         "end": {
-          "line": 369,
-          "column": 19,
-          "index": 11024
+          "line": 244,
+          "column": 16,
+          "index": 6697
         }
       }
     },
@@ -2369,14 +1087,14 @@
       "raw": "教师",
       "range": {
         "start": {
-          "line": 370,
-          "column": 18,
-          "index": 11045
+          "line": 245,
+          "column": 15,
+          "index": 6715
         },
         "end": {
-          "line": 370,
-          "column": 20,
-          "index": 11047
+          "line": 245,
+          "column": 17,
+          "index": 6717
         }
       }
     },
@@ -2385,14 +1103,14 @@
       "raw": "国庆",
       "range": {
         "start": {
-          "line": 371,
-          "column": 18,
-          "index": 11068
+          "line": 246,
+          "column": 15,
+          "index": 6735
         },
         "end": {
-          "line": 371,
-          "column": 20,
-          "index": 11070
+          "line": 246,
+          "column": 17,
+          "index": 6737
         }
       }
     },
@@ -2401,14 +1119,14 @@
       "raw": "圣诞",
       "range": {
         "start": {
-          "line": 372,
-          "column": 19,
-          "index": 11092
+          "line": 247,
+          "column": 16,
+          "index": 6756
         },
         "end": {
-          "line": 372,
-          "column": 21,
-          "index": 11094
+          "line": 247,
+          "column": 18,
+          "index": 6758
         }
       }
     },
@@ -2417,14 +1135,14 @@
       "raw": "重置",
       "range": {
         "start": {
-          "line": 574,
+          "line": 587,
           "column": 74,
-          "index": 17521
+          "index": 17275
         },
         "end": {
-          "line": 574,
+          "line": 587,
           "column": 76,
-          "index": 17523
+          "index": 17277
         }
       }
     },
@@ -2433,14 +1151,14 @@
       "raw": " 年",
       "range": {
         "start": {
-          "line": 1196,
+          "line": 1502,
           "column": 68,
-          "index": 38203
+          "index": 46069
         },
         "end": {
-          "line": 1196,
+          "line": 1502,
           "column": 70,
-          "index": 38205
+          "index": 46071
         }
       }
     },
@@ -2449,14 +1167,14 @@
       "raw": " 月",
       "range": {
         "start": {
-          "line": 1197,
+          "line": 1503,
           "column": 76,
-          "index": 38285
+          "index": 46150
         },
         "end": {
-          "line": 1197,
+          "line": 1503,
           "column": 78,
-          "index": 38287
+          "index": 46152
         }
       }
     },
@@ -2465,14 +1183,14 @@
       "raw": "时间",
       "range": {
         "start": {
-          "line": 1214,
+          "line": 1520,
           "column": 55,
-          "index": 38937
+          "index": 46785
         },
         "end": {
-          "line": 1214,
+          "line": 1520,
           "column": 57,
-          "index": 38939
+          "index": 46787
         }
       }
     },
@@ -2481,14 +1199,14 @@
       "raw": "年",
       "range": {
         "start": {
-          "line": 1290,
+          "line": 1598,
           "column": 20,
-          "index": 41165
+          "index": 49033
         },
         "end": {
-          "line": 1290,
+          "line": 1598,
           "column": 21,
-          "index": 41166
+          "index": 49034
         }
       }
     },
@@ -2497,14 +1215,14 @@
       "raw": "月",
       "range": {
         "start": {
-          "line": 1352,
+          "line": 1663,
           "column": 48,
-          "index": 42809
+          "index": 50772
         },
         "end": {
-          "line": 1352,
+          "line": 1663,
           "column": 49,
-          "index": 42810
+          "index": 50773
         }
       }
     },
@@ -2513,14 +1231,1230 @@
       "raw": "时间",
       "range": {
         "start": {
-          "line": 1967,
-          "column": 67,
-          "index": 61474
+          "line": 2376,
+          "column": 81,
+          "index": 72463
         },
         "end": {
-          "line": 1967,
-          "column": 69,
-          "index": 61476
+          "line": 2376,
+          "column": 83,
+          "index": 72465
+        }
+      }
+    }
+  },
+  "layer": {
+    "确定__I18N_0": {
+      "file": "layui/src/modules/layer.js",
+      "raw": "确定",
+      "range": {
+        "start": {
+          "line": 36,
+          "column": 9,
+          "index": 899
+        },
+        "end": {
+          "line": 36,
+          "column": 11,
+          "index": 901
+        }
+      }
+    },
+    "取消__I18N_0": {
+      "file": "layui/src/modules/layer.js",
+      "raw": "取消",
+      "range": {
+        "start": {
+          "line": 36,
+          "column": 15,
+          "index": 905
+        },
+        "end": {
+          "line": 36,
+          "column": 17,
+          "index": 907
+        }
+      }
+    },
+    "信息__I18N_0": {
+      "file": "layui/src/modules/layer.js",
+      "raw": "信息",
+      "range": {
+        "start": {
+          "line": 270,
+          "column": 10,
+          "index": 7118
+        },
+        "end": {
+          "line": 270,
+          "column": 12,
+          "index": 7120
+        }
+      }
+    },
+    "确定__I18N_1": {
+      "file": "layui/src/modules/layer.js",
+      "raw": "确定",
+      "range": {
+        "start": {
+          "line": 1446,
+          "column": 11,
+          "index": 42730
+        },
+        "end": {
+          "line": 1446,
+          "column": 13,
+          "index": 42732
+        }
+      }
+    },
+    "取消__I18N_1": {
+      "file": "layui/src/modules/layer.js",
+      "raw": "取消",
+      "range": {
+        "start": {
+          "line": 1446,
+          "column": 16,
+          "index": 42735
+        },
+        "end": {
+          "line": 1446,
+          "column": 18,
+          "index": 42737
+        }
+      }
+    },
+    "最多输入__I18N_0": {
+      "file": "layui/src/modules/layer.js",
+      "raw": "最多输入",
+      "range": {
+        "start": {
+          "line": 1459,
+          "column": 20,
+          "index": 43179
+        },
+        "end": {
+          "line": 1459,
+          "column": 24,
+          "index": 43183
+        }
+      }
+    },
+    "个字符__I18N_0": {
+      "file": "layui/src/modules/layer.js",
+      "raw": "个字符",
+      "range": {
+        "start": {
+          "line": 1459,
+          "column": 56,
+          "index": 43215
+        },
+        "end": {
+          "line": 1459,
+          "column": 59,
+          "index": 43218
+        }
+      }
+    },
+    "没有图片__I18N_0": {
+      "file": "layui/src/modules/layer.js",
+      "raw": "没有图片",
+      "range": {
+        "start": {
+          "line": 1573,
+          "column": 22,
+          "index": 46417
+        },
+        "end": {
+          "line": 1573,
+          "column": 26,
+          "index": 46421
+        }
+      }
+    },
+    "<span toolbar-event=\"rotate\" data-option=\"90\" title=\"旋转\"><i class=\"layui-icon layui-icon-refresh\"></i></span>__I18N_0": {
+      "file": "layui/src/modules/layer.js",
+      "raw": "<span toolbar-event=\"rotate\" data-option=\"90\" title=\"旋转\"><i class=\"layui-icon layui-icon-refresh\"></i></span>",
+      "range": {
+        "start": {
+          "line": 1821,
+          "column": 17,
+          "index": 53250
+        },
+        "end": {
+          "line": 1821,
+          "column": 126,
+          "index": 53359
+        }
+      }
+    },
+    "<span toolbar-event=\"scalex\" title=\"变换\"><i class=\"layui-icon layui-icon-slider\"></i></span>__I18N_0": {
+      "file": "layui/src/modules/layer.js",
+      "raw": "<span toolbar-event=\"scalex\" title=\"变换\"><i class=\"layui-icon layui-icon-slider\"></i></span>",
+      "range": {
+        "start": {
+          "line": 1822,
+          "column": 17,
+          "index": 53379
+        },
+        "end": {
+          "line": 1822,
+          "column": 108,
+          "index": 53470
+        }
+      }
+    },
+    "<span toolbar-event=\"zoom\" data-option=\"0.1\" title=\"放大\"><i class=\"layui-icon layui-icon-add-circle\"></i></span>__I18N_0": {
+      "file": "layui/src/modules/layer.js",
+      "raw": "<span toolbar-event=\"zoom\" data-option=\"0.1\" title=\"放大\"><i class=\"layui-icon layui-icon-add-circle\"></i></span>",
+      "range": {
+        "start": {
+          "line": 1823,
+          "column": 17,
+          "index": 53490
+        },
+        "end": {
+          "line": 1823,
+          "column": 128,
+          "index": 53601
+        }
+      }
+    },
+    "<span toolbar-event=\"zoom\" data-option=\"-0.1\" title=\"缩小\"><i class=\"layui-icon layui-icon-reduce-circle\"></i></span>__I18N_0": {
+      "file": "layui/src/modules/layer.js",
+      "raw": "<span toolbar-event=\"zoom\" data-option=\"-0.1\" title=\"缩小\"><i class=\"layui-icon layui-icon-reduce-circle\"></i></span>",
+      "range": {
+        "start": {
+          "line": 1824,
+          "column": 17,
+          "index": 53621
+        },
+        "end": {
+          "line": 1824,
+          "column": 132,
+          "index": 53736
+        }
+      }
+    },
+    "<span toolbar-event=\"reset\" title=\"还原\"><i class=\"layui-icon layui-icon-refresh-1\"></i></span>__I18N_0": {
+      "file": "layui/src/modules/layer.js",
+      "raw": "<span toolbar-event=\"reset\" title=\"还原\"><i class=\"layui-icon layui-icon-refresh-1\"></i></span>",
+      "range": {
+        "start": {
+          "line": 1825,
+          "column": 17,
+          "index": 53756
+        },
+        "end": {
+          "line": 1825,
+          "column": 110,
+          "index": 53849
+        }
+      }
+    },
+    "<span toolbar-event=\"close\" title=\"关闭\"><i class=\"layui-icon layui-icon-close\"></i></span>__I18N_0": {
+      "file": "layui/src/modules/layer.js",
+      "raw": "<span toolbar-event=\"close\" title=\"关闭\"><i class=\"layui-icon layui-icon-close\"></i></span>",
+      "range": {
+        "start": {
+          "line": 1826,
+          "column": 17,
+          "index": 53869
+        },
+        "end": {
+          "line": 1826,
+          "column": 106,
+          "index": 53958
+        }
+      }
+    },
+    "\" target=\"_blank\">查看原图</a>__I18N_0": {
+      "file": "layui/src/modules/layer.js",
+      "raw": "\" target=\"_blank\">查看原图</a>",
+      "range": {
+        "start": {
+          "line": 1836,
+          "column": 45,
+          "index": 54310
+        },
+        "end": {
+          "line": 1836,
+          "column": 71,
+          "index": 54336
+        }
+      }
+    },
+    "当前图片地址异常，<br>是否继续查看下一张？__I18N_0": {
+      "file": "layui/src/modules/layer.js",
+      "raw": "当前图片地址异常，<br>是否继续查看下一张？",
+      "range": {
+        "start": {
+          "line": 1858,
+          "column": 15,
+          "index": 55037
+        },
+        "end": {
+          "line": 1858,
+          "column": 38,
+          "index": 55060
+        }
+      }
+    },
+    "下一张__I18N_0": {
+      "file": "layui/src/modules/layer.js",
+      "raw": "下一张",
+      "range": {
+        "start": {
+          "line": 1860,
+          "column": 13,
+          "index": 55097
+        },
+        "end": {
+          "line": 1860,
+          "column": 16,
+          "index": 55100
+        }
+      }
+    },
+    "不看了__I18N_0": {
+      "file": "layui/src/modules/layer.js",
+      "raw": "不看了",
+      "range": {
+        "start": {
+          "line": 1860,
+          "column": 20,
+          "index": 55104
+        },
+        "end": {
+          "line": 1860,
+          "column": 23,
+          "index": 55107
+        }
+      }
+    }
+  },
+  "laypage": {
+    "上一页__I18N_0": {
+      "file": "layui/src/modules/laypage.js",
+      "raw": "上一页",
+      "range": {
+        "start": {
+          "line": 74,
+          "column": 52,
+          "index": 1645
+        },
+        "end": {
+          "line": 74,
+          "column": 55,
+          "index": 1648
+        }
+      }
+    },
+    "下一页__I18N_0": {
+      "file": "layui/src/modules/laypage.js",
+      "raw": "下一页",
+      "range": {
+        "start": {
+          "line": 75,
+          "column": 52,
+          "index": 1712
+        },
+        "end": {
+          "line": 75,
+          "column": 55,
+          "index": 1715
+        }
+      }
+    },
+    "<a class=\"layui-laypage-first\" data-page=\"1\"  title=\"首页\">__I18N_0": {
+      "file": "layui/src/modules/laypage.js",
+      "raw": "<a class=\"layui-laypage-first\" data-page=\"1\"  title=\"首页\">",
+      "range": {
+        "start": {
+          "line": 102,
+          "column": 22,
+          "index": 2393
+        },
+        "end": {
+          "line": 102,
+          "column": 79,
+          "index": 2450
+        }
+      }
+    },
+    "<a class=\"layui-laypage-last\" title=\"尾页\"  data-page=\"__I18N_0": {
+      "file": "layui/src/modules/laypage.js",
+      "raw": "<a class=\"layui-laypage-last\" title=\"尾页\"  data-page=\"",
+      "range": {
+        "start": {
+          "line": 139,
+          "column": 24,
+          "index": 3781
+        },
+        "end": {
+          "line": 139,
+          "column": 77,
+          "index": 3834
+        }
+      }
+    },
+    "共__I18N_0": {
+      "file": "layui/src/modules/laypage.js",
+      "raw": "共 ",
+      "range": {
+        "start": {
+          "line": 155,
+          "column": 84,
+          "index": 4337
+        },
+        "end": {
+          "line": 155,
+          "column": 86,
+          "index": 4339
+        }
+      }
+    },
+    "条__I18N_0": {
+      "file": "layui/src/modules/laypage.js",
+      "raw": " 条",
+      "range": {
+        "start": {
+          "line": 155,
+          "column": 90,
+          "index": 4343
+        },
+        "end": {
+          "line": 155,
+          "column": 92,
+          "index": 4345
+        }
+      }
+    },
+    "条/页__I18N_0": {
+      "file": "layui/src/modules/laypage.js",
+      "raw": " 条/页",
+      "range": {
+        "start": {
+          "line": 163,
+          "column": 27,
+          "index": 4656
+        },
+        "end": {
+          "line": 163,
+          "column": 31,
+          "index": 4660
+        }
+      }
+    },
+    "到第__I18N_0": {
+      "file": "layui/src/modules/laypage.js",
+      "raw": "到第",
+      "range": {
+        "start": {
+          "line": 191,
+          "column": 11,
+          "index": 5467
+        },
+        "end": {
+          "line": 191,
+          "column": 13,
+          "index": 5469
+        }
+      }
+    },
+    "页__I18N_0": {
+      "file": "layui/src/modules/laypage.js",
+      "raw": "页",
+      "range": {
+        "start": {
+          "line": 192,
+          "column": 11,
+          "index": 5483
+        },
+        "end": {
+          "line": 192,
+          "column": 12,
+          "index": 5484
+        }
+      }
+    },
+    "确定__I18N_0": {
+      "file": "layui/src/modules/laypage.js",
+      "raw": "确定",
+      "range": {
+        "start": {
+          "line": 193,
+          "column": 11,
+          "index": 5498
+        },
+        "end": {
+          "line": 193,
+          "column": 13,
+          "index": 5500
+        }
+      }
+    }
+  },
+  "table": {
+    "<span class=\"layui-table-sort layui-inline\"><i class=\"layui-edge layui-table-sort-asc\" title=\"升序\"></i><i class=\"layui-edge layui-table-sort-desc\" title=\"降序\"></i></span>__I18N_0": {
+      "file": "layui/src/modules/table.js",
+      "raw": "<span class=\"layui-table-sort layui-inline\"><i class=\"layui-edge layui-table-sort-asc\" title=\"升序\"></i><i class=\"layui-edge layui-table-sort-desc\" title=\"降序\"></i></span>",
+      "range": {
+        "start": {
+          "line": 194,
+          "column": 20,
+          "index": 7131
+        },
+        "end": {
+          "line": 194,
+          "column": 188,
+          "index": 7299
+        }
+      }
+    },
+    "无数据__I18N_0": {
+      "file": "layui/src/modules/table.js",
+      "raw": "无数据",
+      "range": {
+        "start": {
+          "line": 304,
+          "column": 13,
+          "index": 10863
+        },
+        "end": {
+          "line": 304,
+          "column": 16,
+          "index": 10866
+        }
+      }
+    },
+    "筛选列__I18N_0": {
+      "file": "layui/src/modules/table.js",
+      "raw": "筛选列",
+      "range": {
+        "start": {
+          "line": 652,
+          "column": 16,
+          "index": 21017
+        },
+        "end": {
+          "line": 652,
+          "column": 19,
+          "index": 21020
+        }
+      }
+    },
+    "导出__I18N_0": {
+      "file": "layui/src/modules/table.js",
+      "raw": "导出",
+      "range": {
+        "start": {
+          "line": 705,
+          "column": 16,
+          "index": 22952
+        },
+        "end": {
+          "line": 705,
+          "column": 18,
+          "index": 22954
+        }
+      }
+    },
+    "当前表格无数据__I18N_0": {
+      "file": "layui/src/modules/table.js",
+      "raw": "当前表格无数据",
+      "range": {
+        "start": {
+          "line": 714,
+          "column": 47,
+          "index": 23257
+        },
+        "end": {
+          "line": 714,
+          "column": 54,
+          "index": 23264
+        }
+      }
+    },
+    "导出功能不支持 IE，请用 Chrome 等高级浏览器导出__I18N_0": {
+      "file": "layui/src/modules/table.js",
+      "raw": "导出功能不支持 IE，请用 Chrome 等高级浏览器导出",
+      "range": {
+        "start": {
+          "line": 716,
+          "column": 24,
+          "index": 23334
+        },
+        "end": {
+          "line": 716,
+          "column": 53,
+          "index": 23363
+        }
+      }
+    },
+    "<li data-type=\"csv\">导出 CSV 文件</li>__I18N_0": {
+      "file": "layui/src/modules/table.js",
+      "raw": "<li data-type=\"csv\">导出 CSV 文件</li>",
+      "range": {
+        "start": {
+          "line": 723,
+          "column": 19,
+          "index": 23531
+        },
+        "end": {
+          "line": 723,
+          "column": 53,
+          "index": 23565
+        }
+      }
+    },
+    "打印__I18N_0": {
+      "file": "layui/src/modules/table.js",
+      "raw": "打印",
+      "range": {
+        "start": {
+          "line": 737,
+          "column": 16,
+          "index": 23936
+        },
+        "end": {
+          "line": 737,
+          "column": 18,
+          "index": 23938
+        }
+      }
+    },
+    "当前表格无数据__I18N_1": {
+      "file": "layui/src/modules/table.js",
+      "raw": "当前表格无数据",
+      "range": {
+        "start": {
+          "line": 745,
+          "column": 47,
+          "index": 24190
+        },
+        "end": {
+          "line": 745,
+          "column": 54,
+          "index": 24197
+        }
+      }
+    },
+    "返回的数据不符合规范，正确的成功状态码应为：\"__I18N_0": {
+      "file": "layui/src/modules/table.js",
+      "raw": "返回的数据不符合规范，正确的成功状态码应为：\"",
+      "range": {
+        "start": {
+          "line": 1221,
+          "column": 16,
+          "index": 39218
+        },
+        "end": {
+          "line": 1221,
+          "column": 39,
+          "index": 39241
+        }
+      }
+    },
+    "请求异常，错误提示：__I18N_0": {
+      "file": "layui/src/modules/table.js",
+      "raw": "请求异常，错误提示：",
+      "range": {
+        "start": {
+          "line": 1248,
+          "column": 26,
+          "index": 40097
+        },
+        "end": {
+          "line": 1248,
+          "column": 36,
+          "index": 40107
+        }
+      }
+    }
+  },
+  "transfer": {
+    "<input type=\"text\" class=\"layui-input\" placeholder=\"关键词搜索\">__I18N_0": {
+      "file": "layui/src/modules/transfer.js",
+      "raw": "<input type=\"text\" class=\"layui-input\" placeholder=\"关键词搜索\">",
+      "range": {
+        "start": {
+          "line": 82,
+          "column": 9,
+          "index": 2192
+        },
+        "end": {
+          "line": 82,
+          "column": 68,
+          "index": 2251
+        }
+      }
+    },
+    "列表一__I18N_0": {
+      "file": "layui/src/modules/transfer.js",
+      "raw": "列表一",
+      "range": {
+        "start": {
+          "line": 119,
+          "column": 13,
+          "index": 3364
+        },
+        "end": {
+          "line": 119,
+          "column": 16,
+          "index": 3367
+        }
+      }
+    },
+    "列表二__I18N_0": {
+      "file": "layui/src/modules/transfer.js",
+      "raw": "列表二",
+      "range": {
+        "start": {
+          "line": 119,
+          "column": 20,
+          "index": 3371
+        },
+        "end": {
+          "line": 119,
+          "column": 23,
+          "index": 3374
+        }
+      }
+    },
+    "无数据__I18N_0": {
+      "file": "layui/src/modules/transfer.js",
+      "raw": "无数据",
+      "range": {
+        "start": {
+          "line": 127,
+          "column": 13,
+          "index": 3545
+        },
+        "end": {
+          "line": 127,
+          "column": 16,
+          "index": 3548
+        }
+      }
+    },
+    "无匹配数据__I18N_0": {
+      "file": "layui/src/modules/transfer.js",
+      "raw": "无匹配数据",
+      "range": {
+        "start": {
+          "line": 128,
+          "column": 19,
+          "index": 3570
+        },
+        "end": {
+          "line": 128,
+          "column": 24,
+          "index": 3575
+        }
+      }
+    }
+  },
+  "tree": {
+    "未命名__I18N_0": {
+      "file": "layui/src/modules/tree.js",
+      "raw": "未命名",
+      "range": {
+        "start": {
+          "line": 110,
+          "column": 24,
+          "index": 2649
+        },
+        "end": {
+          "line": 110,
+          "column": 27,
+          "index": 2652
+        }
+      }
+    },
+    "无数据__I18N_0": {
+      "file": "layui/src/modules/tree.js",
+      "raw": "无数据",
+      "range": {
+        "start": {
+          "line": 111,
+          "column": 13,
+          "index": 2678
+        },
+        "end": {
+          "line": 111,
+          "column": 16,
+          "index": 2681
+        }
+      }
+    },
+    "确认删除该节点 \"<span style=\"color: #999;\">__I18N_0": {
+      "file": "layui/src/modules/tree.js",
+      "raw": "确认删除该节点 \"<span style=\"color: #999;\">",
+      "range": {
+        "start": {
+          "line": 578,
+          "column": 23,
+          "index": 18004
+        },
+        "end": {
+          "line": 578,
+          "column": 59,
+          "index": 18040
+        }
+      }
+    },
+    "</span>\" 吗？__I18N_0": {
+      "file": "layui/src/modules/tree.js",
+      "raw": "</span>\" 吗？",
+      "range": {
+        "start": {
+          "line": 578,
+          "column": 95,
+          "index": 18076
+        },
+        "end": {
+          "line": 578,
+          "column": 106,
+          "index": 18087
+        }
+      }
+    }
+  },
+  "treeTable": {
+    "找不到节点数据__I18N_0": {
+      "file": "layui/src/modules/treeTable.js",
+      "raw": "找不到节点数据",
+      "range": {
+        "start": {
+          "line": 402,
+          "column": 25,
+          "index": 12628
+        },
+        "end": {
+          "line": 402,
+          "column": 32,
+          "index": 12635
+        }
+      }
+    },
+    "找不到节点数据__I18N_1": {
+      "file": "layui/src/modules/treeTable.js",
+      "raw": "找不到节点数据",
+      "range": {
+        "start": {
+          "line": 424,
+          "column": 25,
+          "index": 13197
+        },
+        "end": {
+          "line": 424,
+          "column": 32,
+          "index": 13204
+        }
+      }
+    },
+    "expandAll 的展开状态参数只接收true/false__I18N_0": {
+      "file": "layui/src/modules/treeTable.js",
+      "raw": "expandAll 的展开状态参数只接收true/false",
+      "range": {
+        "start": {
+          "line": 883,
+          "column": 25,
+          "index": 30008
+        },
+        "end": {
+          "line": 883,
+          "column": 55,
+          "index": 30038
+        }
+      }
+    }
+  },
+  "upload": {
+    "文件__I18N_0": {
+      "file": "layui/src/modules/upload.js",
+      "raw": "文件",
+      "range": {
+        "start": {
+          "line": 526,
+          "column": 13,
+          "index": 13808
+        },
+        "end": {
+          "line": 526,
+          "column": 15,
+          "index": 13810
+        }
+      }
+    },
+    "图片__I18N_0": {
+      "file": "layui/src/modules/upload.js",
+      "raw": "图片",
+      "range": {
+        "start": {
+          "line": 527,
+          "column": 15,
+          "index": 13828
+        },
+        "end": {
+          "line": 527,
+          "column": 17,
+          "index": 13830
+        }
+      }
+    },
+    "视频__I18N_0": {
+      "file": "layui/src/modules/upload.js",
+      "raw": "视频",
+      "range": {
+        "start": {
+          "line": 528,
+          "column": 14,
+          "index": 13847
+        },
+        "end": {
+          "line": 528,
+          "column": 16,
+          "index": 13849
+        }
+      }
+    },
+    "音频__I18N_0": {
+      "file": "layui/src/modules/upload.js",
+      "raw": "音频",
+      "range": {
+        "start": {
+          "line": 529,
+          "column": 14,
+          "index": 13866
+        },
+        "end": {
+          "line": 529,
+          "column": 16,
+          "index": 13868
+        }
+      }
+    },
+    "文件__I18N_1": {
+      "file": "layui/src/modules/upload.js",
+      "raw": "文件",
+      "range": {
+        "start": {
+          "line": 530,
+          "column": 27,
+          "index": 13897
+        },
+        "end": {
+          "line": 530,
+          "column": 29,
+          "index": 13899
+        }
+      }
+    },
+    "选择的__I18N_0": {
+      "file": "layui/src/modules/upload.js",
+      "raw": "选择的",
+      "range": {
+        "start": {
+          "line": 574,
+          "column": 40,
+          "index": 15137
+        },
+        "end": {
+          "line": 574,
+          "column": 43,
+          "index": 15140
+        }
+      }
+    },
+    "中包含不支持的格式__I18N_0": {
+      "file": "layui/src/modules/upload.js",
+      "raw": "中包含不支持的格式",
+      "range": {
+        "start": {
+          "line": 574,
+          "column": 57,
+          "index": 15154
+        },
+        "end": {
+          "line": 574,
+          "column": 66,
+          "index": 15163
+        }
+      }
+    },
+    "同时最多只能上传:__I18N_0": {
+      "file": "layui/src/modules/upload.js",
+      "raw": "同时最多只能上传: ",
+      "range": {
+        "start": {
+          "line": 600,
+          "column": 9,
+          "index": 15769
+        },
+        "end": {
+          "line": 600,
+          "column": 19,
+          "index": 15779
+        }
+      }
+    },
+    "个文件__I18N_0": {
+      "file": "layui/src/modules/upload.js",
+      "raw": " 个文件",
+      "range": {
+        "start": {
+          "line": 600,
+          "column": 40,
+          "index": 15800
+        },
+        "end": {
+          "line": 600,
+          "column": 44,
+          "index": 15804
+        }
+      }
+    },
+    "<br>您当前已经选择了:__I18N_0": {
+      "file": "layui/src/modules/upload.js",
+      "raw": "<br>您当前已经选择了: ",
+      "range": {
+        "start": {
+          "line": 601,
+          "column": 10,
+          "index": 15816
+        },
+        "end": {
+          "line": 601,
+          "column": 24,
+          "index": 15830
+        }
+      }
+    },
+    "个文件__I18N_1": {
+      "file": "layui/src/modules/upload.js",
+      "raw": " 个文件",
+      "range": {
+        "start": {
+          "line": 601,
+          "column": 45,
+          "index": 15851
+        },
+        "end": {
+          "line": 601,
+          "column": 49,
+          "index": 15855
+        }
+      }
+    },
+    "文件大小不能超过__I18N_0": {
+      "file": "layui/src/modules/upload.js",
+      "raw": "文件大小不能超过 ",
+      "range": {
+        "start": {
+          "line": 619,
+          "column": 9,
+          "index": 16395
+        },
+        "end": {
+          "line": 619,
+          "column": 18,
+          "index": 16404
+        }
+      }
+    },
+    "个文件__I18N_2": {
+      "file": "layui/src/modules/upload.js",
+      "raw": "个文件",
+      "range": {
+        "start": {
+          "line": 644,
+          "column": 26,
+          "index": 17009
+        },
+        "end": {
+          "line": 644,
+          "column": 29,
+          "index": 17012
+        }
+      }
+    }
+  },
+  "util": {
+    "天前__I18N_0": {
+      "file": "layui/src/modules/util.js",
+      "raw": " 天前",
+      "range": {
+        "start": {
+          "line": 232,
+          "column": 44,
+          "index": 6115
+        },
+        "end": {
+          "line": 232,
+          "column": 47,
+          "index": 6118
+        }
+      }
+    },
+    "小时前__I18N_0": {
+      "file": "layui/src/modules/util.js",
+      "raw": " 小时前",
+      "range": {
+        "start": {
+          "line": 234,
+          "column": 41,
+          "index": 6200
+        },
+        "end": {
+          "line": 234,
+          "column": 45,
+          "index": 6204
+        }
+      }
+    },
+    "分钟前__I18N_0": {
+      "file": "layui/src/modules/util.js",
+      "raw": " 分钟前",
+      "range": {
+        "start": {
+          "line": 236,
+          "column": 38,
+          "index": 6296
+        },
+        "end": {
+          "line": 236,
+          "column": 42,
+          "index": 6300
+        }
+      }
+    },
+    "未来__I18N_0": {
+      "file": "layui/src/modules/util.js",
+      "raw": "未来",
+      "range": {
+        "start": {
+          "line": 238,
+          "column": 16,
+          "index": 6347
+        },
+        "end": {
+          "line": 238,
+          "column": 18,
+          "index": 6349
+        }
+      }
+    },
+    "刚刚__I18N_0": {
+      "file": "layui/src/modules/util.js",
+      "raw": "刚刚",
+      "range": {
+        "start": {
+          "line": 240,
+          "column": 16,
+          "index": 6383
+        },
+        "end": {
+          "line": 240,
+          "column": 18,
+          "index": 6385
+        }
+      }
+    },
+    "凌晨__I18N_0": {
+      "file": "layui/src/modules/util.js",
+      "raw": "凌晨",
+      "range": {
+        "start": {
+          "line": 307,
+          "column": 20,
+          "index": 8413
+        },
+        "end": {
+          "line": 307,
+          "column": 22,
+          "index": 8415
+        }
+      }
+    },
+    "早上__I18N_0": {
+      "file": "layui/src/modules/util.js",
+      "raw": "早上",
+      "range": {
+        "start": {
+          "line": 309,
+          "column": 20,
+          "index": 8471
+        },
+        "end": {
+          "line": 309,
+          "column": 22,
+          "index": 8473
+        }
+      }
+    },
+    "上午__I18N_0": {
+      "file": "layui/src/modules/util.js",
+      "raw": "上午",
+      "range": {
+        "start": {
+          "line": 311,
+          "column": 20,
+          "index": 8530
+        },
+        "end": {
+          "line": 311,
+          "column": 22,
+          "index": 8532
+        }
+      }
+    },
+    "中午__I18N_0": {
+      "file": "layui/src/modules/util.js",
+      "raw": "中午",
+      "range": {
+        "start": {
+          "line": 313,
+          "column": 20,
+          "index": 8589
+        },
+        "end": {
+          "line": 313,
+          "column": 22,
+          "index": 8591
+        }
+      }
+    },
+    "下午__I18N_0": {
+      "file": "layui/src/modules/util.js",
+      "raw": "下午",
+      "range": {
+        "start": {
+          "line": 315,
+          "column": 20,
+          "index": 8648
+        },
+        "end": {
+          "line": 315,
+          "column": 22,
+          "index": 8650
+        }
+      }
+    },
+    "晚上__I18N_0": {
+      "file": "layui/src/modules/util.js",
+      "raw": "晚上",
+      "range": {
+        "start": {
+          "line": 317,
+          "column": 18,
+          "index": 8683
+        },
+        "end": {
+          "line": 317,
+          "column": 20,
+          "index": 8685
         }
       }
     }

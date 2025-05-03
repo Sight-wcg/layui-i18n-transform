@@ -7,7 +7,9 @@
   "scripts": {
     "t": "node scripts/transforms.js",
     "t-zh": "node scripts/transforms.js zh-Hans",
-    "prepare": "node scripts/prepare.js"
+    "build": "cd layui && npm run build",
+    "prepare:template": "node scripts/prepare.js",
+    "prepare": "git submodule update --remote layui && cd layui && npm install && cd .. && npm run prepare:template"
   },
   "author": "morning-star",
   "license": "MIT",

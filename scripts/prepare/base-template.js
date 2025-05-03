@@ -37,11 +37,18 @@ export async function generateBaseTemplate(){
       });
     }
   });
+
+  let sortedTplObj = Object.fromEntries(
+    Object.entries(baseTemplate).sort((a, b) => a[0].localeCompare(b[0]))
+  );
+  let sortedMetaDataObj = Object.fromEntries(
+    Object.entries(metaData).sort((a, b) => a[0].localeCompare(b[0]))
+  );
   
   await fs.writeFile(
     `./src/base-template/index.js`,
 `${COMMENT_HEAD}
-export default {${Object.entries(baseTemplate).map(([compName,obj]) =>`
+export default {${Object.entries(sortedTplObj).map(([compName,obj]) =>`
   ${compName}: {
 ${Object.entries(obj).map(([key,val]) => `    '${key}': '${val}'`).join(',\n')}
   },`
@@ -50,7 +57,7 @@ ${Object.entries(obj).map(([key,val]) => `    '${key}': '${val}'`).join(',\n')}
     {encoding: 'utf-8'}
   )
 
-  await fs.writeFile('./src/base-template/meta.json', `${JSON.stringify(metaData, null, 2)}`,{encoding: 'utf-8'})
+  await fs.writeFile('./src/base-template/meta.json', `${JSON.stringify(sortedMetaDataObj, null, 2)}`,{encoding: 'utf-8'})
 }
 
 
