@@ -6,11 +6,10 @@
   "type": "module",
   "scripts": {
     "t": "node scripts/transforms.js",
-    "t:fn": "node scripts/transforms-fn.js",
     "build": "cd layui && npm run build",
     "prepare:template": "node scripts/prepare.js",
     "prepare": "git submodule update --remote layui && cd layui && npm install && cd .. && npm run prepare:template",
-    "test": "npm run t zh-Hans"
+    "test": "npm run t zh-Hans $.i18n.prop"
   },
   "author": "morning-star",
   "license": "MIT",
