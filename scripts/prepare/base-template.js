@@ -8,6 +8,7 @@ export async function generateBaseTemplate(){
   await parseFiles(['layui/src'], (err, ast) => {
     if(!ast.filename().endsWith('.js')) return;
     const filename = path.basename(ast.filename(), '.js');
+    if(filename === 'jquery') return;
     //console.log(filename, ast.filename());
     const matchNodes = ast.root().findAll({
       rule: {

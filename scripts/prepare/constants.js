@@ -4,4 +4,4 @@ export const COMMENT_HEAD = `
  */
 `.trim()
 
-export const I18N_RE = '[\u4e00-\u9fa5]|&#x[^e][0-9a-zA-Z]{3}|No data'
+export const I18N_RE = '[\u4e00-\u9fa5]|&#x[^e][0-9a-zA-Z]{3}|No data|None'

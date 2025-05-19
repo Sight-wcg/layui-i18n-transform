@@ -205,14 +205,14 @@
       "raw": "必填项不能为空",
       "range": {
         "start": {
-          "line": 29,
+          "line": 33,
           "column": 20,
-          "index": 779
+          "index": 1043
         },
         "end": {
-          "line": 29,
+          "line": 33,
           "column": 27,
-          "index": 786
+          "index": 1050
         }
       }
     },
@@ -221,14 +221,14 @@
       "raw": "手机号格式不正确",
       "range": {
         "start": {
-          "line": 35,
+          "line": 39,
           "column": 20,
-          "index": 941
+          "index": 1205
         },
         "end": {
-          "line": 35,
+          "line": 39,
           "column": 28,
-          "index": 949
+          "index": 1213
         }
       }
     },
@@ -237,14 +237,14 @@
       "raw": "邮箱格式不正确",
       "range": {
         "start": {
-          "line": 41,
+          "line": 45,
           "column": 20,
-          "index": 1158
+          "index": 1422
         },
         "end": {
-          "line": 41,
+          "line": 45,
           "column": 27,
-          "index": 1165
+          "index": 1429
         }
       }
     },
@@ -253,14 +253,14 @@
       "raw": "链接格式不正确",
       "range": {
         "start": {
-          "line": 47,
+          "line": 51,
           "column": 20,
-          "index": 1349
+          "index": 1613
         },
         "end": {
-          "line": 47,
+          "line": 51,
           "column": 27,
-          "index": 1356
+          "index": 1620
         }
       }
     },
@@ -269,14 +269,14 @@
       "raw": "只能填写数字",
       "range": {
         "start": {
-          "line": 52,
+          "line": 56,
           "column": 20,
-          "index": 1474
+          "index": 1738
         },
         "end": {
-          "line": 52,
+          "line": 56,
           "column": 26,
-          "index": 1480
+          "index": 1744
         }
       }
     },
@@ -285,14 +285,14 @@
       "raw": "日期格式不正确",
       "range": {
         "start": {
-          "line": 58,
+          "line": 62,
           "column": 20,
-          "index": 1699
+          "index": 1963
         },
         "end": {
-          "line": 58,
+          "line": 62,
           "column": 27,
-          "index": 1706
+          "index": 1970
         }
       }
     },
@@ -301,14 +301,14 @@
       "raw": "身份证号格式不正确",
       "range": {
         "start": {
-          "line": 64,
+          "line": 68,
           "column": 20,
-          "index": 1884
+          "index": 2148
         },
         "end": {
-          "line": 64,
+          "line": 68,
           "column": 29,
-          "index": 1893
+          "index": 2157
         }
       }
     },
@@ -317,14 +317,14 @@
       "raw": "请选择",
       "range": {
         "start": {
-          "line": 464,
+          "line": 468,
           "column": 20,
-          "index": 16116
+          "index": 16380
         },
         "end": {
-          "line": 464,
+          "line": 468,
           "column": 23,
-          "index": 16119
+          "index": 16383
         }
       }
     },
@@ -333,30 +333,30 @@
       "raw": "\">无匹配项</p>",
       "range": {
         "start": {
-          "line": 763,
+          "line": 767,
           "column": 73,
-          "index": 26772
+          "index": 27016
         },
         "end": {
-          "line": 763,
+          "line": 767,
           "column": 83,
-          "index": 26782
+          "index": 27026
         }
       }
     },
-    "\">没有选项</dd>__I18N_0": {
+    "\">None</dd>__I18N_0": {
       "file": "layui/src/modules/form.js",
-      "raw": "\">没有选项</dd>",
+      "raw": "\">None</dd>",
       "range": {
         "start": {
-          "line": 906,
-          "column": 82,
-          "index": 32225
+          "line": 958,
+          "column": 64,
+          "index": 33574
         },
         "end": {
-          "line": 906,
-          "column": 93,
-          "index": 32236
+          "line": 958,
+          "column": 75,
+          "index": 33585
         }
       }
     },
@@ -365,14 +365,14 @@
       "raw": "不支持的 \"",
       "range": {
         "start": {
-          "line": 1188,
+          "line": 1243,
           "column": 50,
-          "index": 42275
+          "index": 43710
         },
         "end": {
-          "line": 1188,
+          "line": 1243,
           "column": 56,
-          "index": 42281
+          "index": 43716
         }
       }
     },
@@ -381,14 +381,14 @@
       "raw": "\" 表单渲染",
       "range": {
         "start": {
-          "line": 1188,
+          "line": 1243,
           "column": 67,
-          "index": 42292
+          "index": 43727
         },
         "end": {
-          "line": 1188,
+          "line": 1243,
           "column": 73,
-          "index": 42298
+          "index": 43733
         }
       }
     },
@@ -397,14 +397,14 @@
       "raw": "提示",
       "range": {
         "start": {
-          "line": 1314,
+          "line": 1369,
           "column": 46,
-          "index": 46204
+          "index": 47639
         },
         "end": {
-          "line": 1314,
+          "line": 1369,
           "column": 48,
-          "index": 46206
+          "index": 47641
         }
       }
     }
